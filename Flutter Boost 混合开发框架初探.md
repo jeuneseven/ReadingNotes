@@ -7,4 +7,9 @@
 
 # 架构
 
+* 原生和flutter对于页面定义不同，原生指 ViewController 或者 Activity；flutter 指 widget，FlutterBoost 旨在统一混合工程中页面的概念，或弱化 flutter widget 对于容器页面的概念。
+
+FlutterBoost 架构图：
+
 ![](https://segmentfault.com/img/remote/1460000039760724)
+
