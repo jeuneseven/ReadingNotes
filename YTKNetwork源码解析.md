@@ -7,3 +7,19 @@
 # 设计模式
 
 * YTKNetwork 使用命令模式（Command Pattern）
+
+# 源码解析
+
+## 职责介绍
+
+类  | 职责
+------------- | -------------
+YTKBaseRequest  | 请求类的基类。
+YTKRequest  | YTKBaseRequest 子类。
+YTKNetworkConfig  | 
+YTKNetworkPrivate  | 
+YTKNetworkAgent  | 
+YTKBatchRequest  | 
+YTKBatchRequestAgent  | 
+YTKChainRequest  | 
+YTKChainRequestAgent  | 
