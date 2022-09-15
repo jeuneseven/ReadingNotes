@@ -1,4 +1,6 @@
-[YTKNetwork源码解析](https://juejin.cn/post/6844903487721963527)
+[YTKNetwork源码解析](https://juejin.cn/post/6844903487721963527)  
+[YTKNetwork 使用基础教程](https://github.com/jeuneseven/YTKNetwork/blob/master/Docs/BasicGuide_cn.md)
+[YTKNetwork 使用高级教程](https://github.com/jeuneseven/YTKNetwork/blob/master/Docs/ProGuide_cn.md)
 
 # 架构
 
@@ -9,6 +11,11 @@
 * YTKNetwork 使用命令模式（Command Pattern）
 
 ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2017/7/18/b9dd82db5499414a4fec275fef9e3a10~tplv-t2oaga2asx-zoom-in-crop-mark:3024:0:0:0.awebp)
+
+场景  | Command | ConcreteCommand | Invoker | Receiver | Client
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+餐厅 | 空白订单 | 填入菜名的订单 | 服务员 | 厨师 | 客人
+YTKNetwork | YTKBaseRequest | CustomRequest | YTKNetworkAgent | AFNetworking | ViewController/ViewModel
 
 # 源码解析
 
@@ -25,3 +32,5 @@ YTKBatchRequest  | 批量请求，维护一个数组保存请求类，遍历数�
 YTKBatchRequestAgent  | 持有数组管理多个 YTKBatchRequest，支持添加删除请求。
 YTKChainRequest  | 链式请求，维护一个数组保存所有请求类，一个请求结束才发起下一个请求，如果有一个失败，则数组中的请求都失败。
 YTKChainRequestAgent  | 持有数组管理多个 YTKChainRequest，支持添加、删除 YTKChainRequest。
+
+## 高级功能
