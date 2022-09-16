@@ -33,4 +33,12 @@ YTKBatchRequestAgent  | 持有数组管理多个 YTKBatchRequest，支持添加�
 YTKChainRequest  | 链式请求，维护一个数组保存所有请求类，一个请求结束才发起下一个请求，如果有一个失败，则数组中的请求都失败。
 YTKChainRequestAgent  | 持有数组管理多个 YTKChainRequest，支持添加、删除 YTKChainRequest。
 
+## 基础功能
+
+
+
 ## 高级功能
+
+### YTKUrlFilterProtocol
+
+* 用于对网络请求增加参数（版本号等）或修改路径。
