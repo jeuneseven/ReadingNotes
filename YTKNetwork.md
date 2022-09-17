@@ -19,6 +19,8 @@ YTKNetwork | YTKBaseRequest | CustomRequest | YTKNetworkAgent | AFNetworking | V
 
 # 源码解析
 
+![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2017/7/18/8850c711921aa88ed065388b3a910c36~tplv-t2oaga2asx-zoom-in-crop-mark:3780:0:0:0.awebp)
+
 ## 职责介绍
 
 类  | 职责
