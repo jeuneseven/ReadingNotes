@@ -18,6 +18,15 @@ C语言的日益流行，多年来该语言的变化，以及未参与设计的�
 
 	hello, world
 
+
+在 C 语言中，打印"hello, world" 的程序是  
+
+	#include <stdio.h>
+	main()
+	   {
+	     printf("hello, world\n");
+	}
+
 ## 变量和算术表达式
 
 
