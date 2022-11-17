@@ -26,6 +26,18 @@ C语言的日益流行，多年来该语言的变化，以及未参与设计的�
 	   {
 	     printf("hello, world\n");
 	}
+	
+	
+	#include <stdio.h>
+	library
+	main()
+	     include information about standard
+	define a function called main
+	that received no argument values statements of main are enclosed in braces main calls library function printf
+	to print this sequence of characters
+	\n represents the newline character
+	The first C program
+	{ }
 
 ## 变量和算术表达式
 
