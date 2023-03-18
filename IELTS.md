@@ -14,3 +14,20 @@ English Language：survival/academic 生存/学术英语
 ## 租房场景
 
 * length 场景注意听 how long
+
+### 人名
+
+* 名字 given/first name
+* 姓氏 family/last name、surname
+  * 简单名字直接念
+  * 字母拼写
+  * 特殊拼写
+* 英国四大组成、伦敦和约克 常考
+
+### 地址
+
+* 数字+名词+路
+
+### 邮编
+
+* 纯数字或数字+字母（大写）
