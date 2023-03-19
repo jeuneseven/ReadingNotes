@@ -49,3 +49,8 @@ English Language：survival/academic 生存/学术英语
 ### 月份、星期、时间
 
 * 12个月+7天单词
+
+## 寄宿家庭 homestay
+
+* host family
+* diet：no red meat(印度人为主)、seafood、vegetarian
