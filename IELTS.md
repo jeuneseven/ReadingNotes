@@ -11,9 +11,23 @@ English Language：survival/academic 生存/学术英语
 * section 4:lecture
 * 四部分每部分10题，一共40分钟
 
-## 租房场景
+## 租房场景/个人信息表
 
 * length 场景注意听 how long
+* 重复信息要注意！一般是答案
+* 听准否定词
+* twin room:two single beds
+* double room:a room for two people
+* bedsit/sitting room 起居室
+* living room 客厅 dining room 餐厅
+* balcony/foyer 阳台/玄关
+* flat/apartment 公寓
+* studio apartment 单间公寓
+* rent/rental 房租
+* phone/gas/water/electricity bill 
+* deposit 押金
+* insurance 保险
+* cash/credit card/cheque 
 
 ### 人名
 
@@ -31,3 +45,7 @@ English Language：survival/academic 生存/学术英语
 ### 邮编
 
 * 纯数字或数字+字母（大写）
+
+### 月份、星期、时间
+
+* 12个月+7天单词
