@@ -33,3 +33,25 @@ example:I got this watch from my father as a graduate gift.
 * same quality, lower price
 
 ## function
+
+* basic function
+* special function
+
+I always use it for doing sth.
+It is usually used for doing sth.
+
+# feelings
+
+Every time I use this object,it could be really related adjectives.
+It really moved/touched/surprise me,my tears almost came to my eyes.
+Example:Everytime I play games on this laptop,it could be really exciting and cheerful. 
+        Everytime I watch movies on my smart phone,it could be quite relaxing.
+
+# meaning
+
+It is the symbol of (the affection between two people), every time I use/see this (Object),it always reminds me of him/her and the time that we used to do sth. together. 
+
+## sample
+
+It is the symbol of our precious friendship,
+every time l use this phoneit always reminds me of him and the time that we used to go to school together.
