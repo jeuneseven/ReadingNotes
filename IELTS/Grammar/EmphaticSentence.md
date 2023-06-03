@@ -17,3 +17,5 @@
 
 * It is/was ... that/who ...
 	* It was the philosopher Jeremy Bentham (1748-1832) who was more than anyone else responsible for the development of this way of thinking.
+
+### 主语从句和强调句的区别
