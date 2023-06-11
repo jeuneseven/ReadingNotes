@@ -19,3 +19,6 @@
 	* It was the philosopher Jeremy Bentham (1748-1832) who was more than anyone else responsible for the development of this way of thinking.
 
 ### 主语从句和强调句的区别
+
+* It is 和 that 之间是形容词或动词，肯定不是强调句，因为强调句不能强调形容词或动词
+* It is 和 that 去掉后，剩余部分无法形成一个完整的句子，也不是强调句
