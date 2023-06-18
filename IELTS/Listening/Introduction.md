@@ -37,7 +37,7 @@ ITELTS (International English Language Testing System)
 
 ### 读
 
-* 30秒钟审题找到核心词汇
+* 30秒钟审题找到核心词汇:用于定位最细节核心
 * 答案与什么相关
 * 答案决定于什么
 
@@ -48,18 +48,12 @@ ITELTS (International English Language Testing System)
 
 ### 听
 
-
+* 定位核心词
+* 避免陷阱（同义词和逻辑转移）
 
 ### 写
 
-
+* ASAP
 
 ### 查
 
-
-
-
-## 寄宿家庭 homestay
-
-* host family
-* diet：no red meat(印度人为主)、seafood、vegetarian
