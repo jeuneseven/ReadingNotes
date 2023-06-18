@@ -2,9 +2,8 @@
 
 ITELTS (International English Language Testing System)
 
-International：国际化口音，70%英、10%美、15%澳新、5%印日……
-English Language：survival/academic 生存/学术英语
-
+* International：国际化口音，70%英、10%美、15%澳新、5%印日……
+* English Language：survival/academic 生存/学术英语
 * 听力有四部分，section 1-4，1、3为对话，2、4为演讲或独白，1-4难度逐渐增加
 * section 1、2: 社会化话题- accommodation（住宿）、registration（注册）、entertainment（娱乐）、hometown、tour&sightseeing、clinic、library、student counselling
 * section 3:academic discussion 学术讨论 assignment、dissertation(论文)、courses selection
