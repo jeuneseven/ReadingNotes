@@ -49,6 +49,23 @@
 4. 选择题 多选、单选
 5. 搭配 matching
 
+## 解题思路
+
+### TFNG
+
+1. factual information 考察 T/F, argumentation 考察 Y/N
+2. T/F 都是Given, 先看 G/NG, 再看 T/F
+
+### Completion
+
+1. 不带选项的更简单直接，原词重现即可
+2. 带选项的要注意同义词替换或者归纳总结
+
+### Mutiple choice
+
+1. main idea/purpose/best title 都是考察对全文主题的把握
+2. 四选一题目一般简单，五选二较麻烦，平时重点关注正确选项
+
 ## 攻略
 
 * 词汇：6分需要3000-3500
