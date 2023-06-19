@@ -33,6 +33,9 @@
 * 议论文-有观点有讨论
 * 论说文-说明文和议论文结合
 * 区分事实/观点/理论
+  * benefit that... : factual information
+  * sb believe that... : opinion
+  * intext citation : theory
 
 # 常见话题
 
