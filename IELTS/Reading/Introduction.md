@@ -51,6 +51,8 @@
 
 ## 解题思路
 
+<img width="470" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/72b85661-67c9-4dbd-9cf0-f8de9d305b0c">
+
 ### TFNG
 
 1. factual information 考察 T/F, argumentation 考察 Y/N
@@ -65,6 +67,21 @@
 
 1. main idea/purpose/best title 都是考察对全文主题的把握
 2. 四选一题目一般简单，五选二较麻烦，平时重点关注正确选项
+
+### Matching headings
+
+1. 题目在文章之前出现，通过分析段落结构解题
+2. 可以与其他提醒交叉解题
+
+### Matching Information
+
+1. information 都是抽象名词+后置定语
+2. 关注 global understanding
+
+### Matching features
+
+1. 选项可能是人命、年代等各种信息
+2. 题目乱序，选项顺序，通过选项找题目
 
 ## 攻略
 
