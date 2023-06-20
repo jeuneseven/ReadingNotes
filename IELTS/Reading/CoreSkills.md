@@ -20,3 +20,11 @@
 ## 句式变化
 
 <img width="455" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/590c39aa-141e-442f-83e4-7810a7a2ccc3">
+
+# 核心技能2 Identify key idea
+
+## 句子的 key idea
+
+
+
+## 段落的 key idea
