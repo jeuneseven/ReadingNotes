@@ -49,3 +49,18 @@
 
 * 段落的构成：句子+句间关系+句子...
 * 常见的句间关系：顺：并列、递进、因果；转：转折、让步、对比
+* 看一个段落有几句话+句子之间的关系
+
+# 核心技能3 Skimming and scanning
+
+* skim a text quickly to **understand the main idea**
+* scan a text quickly to **find specific information**
+
+## skimming
+
+
+
+## scanning
+
+
+
