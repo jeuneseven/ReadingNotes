@@ -64,5 +64,6 @@
 
 ## scanning
 
-
-
+* 重点看哪些 specific information
+* 关键词：大写、数字、转有名词、生词
+* content words 和同义替换
