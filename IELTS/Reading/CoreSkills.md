@@ -55,7 +55,7 @@
 
 * skim a text quickly to **understand the main idea**
 * scan a text quickly to **find specific information**
-* key workds 只能用来做 scanning，也就是用来定位答题区域，解题时要看句子对应的 key idea
+* key words 只能用来做 scanning，也就是用来定位答题区域，解题时要看句子对应的 key idea
 * skimming 文章和解题时看具体位置是两件事
 
 ## skimming
