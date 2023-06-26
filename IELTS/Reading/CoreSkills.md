@@ -55,6 +55,8 @@
 
 * skim a text quickly to **understand the main idea**
 * scan a text quickly to **find specific information**
+* key workds 只能用来做 scanning，也就是用来定位答题区域，解题时要看句子对应的 key idea
+* skimming 文章和解题时看具体位置是两件事
 
 ## skimming
 
@@ -67,3 +69,5 @@
 * 重点看哪些 specific information
 * 关键词：大写、数字、转有名词、生词
 * content words 和同义替换
+
+  
