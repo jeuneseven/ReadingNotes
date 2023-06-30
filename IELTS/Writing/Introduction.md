@@ -31,6 +31,12 @@
 * 6分：文章涉及题目中的所有内容，论证不够充分
 * 7分：观点更加切题和明确，论证更加合理
 
+### 内容评分
+
+* 题目中的内容应全面回应
+* 立场、观点一致清晰，并提供主要观点以及支持的论据
+* 结构清晰、主体结尾，introduction 和 conclusion 需要清晰
+
 ### 审题
 
 * 题目为单一观点还是对立观点？
@@ -43,12 +49,6 @@
 * 表明观点
 * 论证观点
 * 总结观点
-
-## 内容评分
-
-* 题目中的内容应全面回应
-* 立场、观点一致清晰，并提供主要观点以及支持的论据
-* 结构清晰、主体结尾
  
 ## 连贯与衔接
 
@@ -71,7 +71,7 @@
 * Not everyone takes such an approach
 * Another possible cause
 * As far as ... is concerned
-* Nevertheless,some people feel that 
+* Nevertheless, some people feel that 
 * However
 * There a number of ways that...
 * One way would be...
@@ -87,7 +87,7 @@
 * However
 * yet
 * unfortunately
-* indeed
+* indeed 表强调
 * then
 * generally speaking
 * it which where this they their these the
