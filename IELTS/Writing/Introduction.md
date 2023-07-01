@@ -98,19 +98,24 @@
 * 6分：合乎要求，试图使用不常用词汇，有错误，但不影响交流
 * 7分：有灵活性和准确性，使用不常用词汇，对语体和搭配有认识，偶尔出错
 
-### range
+### range 词汇量
+
+idioms, collocations, phrases
 
 * cause:lead to/give rise to/result in/triger
 * important:crucial/vital/considerable/significant
 * it is a challenge for ... to...:it presents a real challenge for... to ...
-* shared value 
+* shared value
+* modification 变化
+* predicting 预测
+* grouped in a ... 成组出现在...
 * AWL:academic word list
 
-### accuracy
+### accuracy 拼写与构词
 
-* 词汇选择
-* 词汇形式
-* 拼写
+* 词汇选择 word choice
+* 词汇形式 word formation
+* 拼写 spelling
 
 ## 语法
 
