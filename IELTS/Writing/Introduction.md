@@ -119,6 +119,10 @@ idioms, collocations, phrases
 
 ## 语法
 
+* range of sentence types
+* grammar accuracy
+* punctuation
+
 语法结构（简单/复杂句式）；句子错误；语法及标点
 
 * 5分：有限；试图使用复杂句，错误多；经常错，造成阅读困难
