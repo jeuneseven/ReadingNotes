@@ -16,9 +16,14 @@
 * 主体段落的安排，信息的归类与衔接手法的使用
 * 概述与结尾段写法
 
-# 示范
+# 图表作文示范
 
 * 不要照抄题目原文，会被删除掉，如果字数不够会扣分，可以进行改写
 * 主要修改事实性信息，如：show give describe
- 
+   * 有关‘显示、表明’的词汇：show, give, describe, demonstrate, depict, illustrate, indicate, reflect, relate ...
+* 要写出趋势，并且进行归类，要注意写作顺序
+* 主体段落的 sequence 与 grouping: bus 先升后降；car 上升；bicycle、on foot 下降
+
+<img width="553" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/2d149611-940b-430f-b4d2-0f163c21e021">
+
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/8426758/229342773-b3efc755-2401-4982-ae62-cd94491bc6ba.png">
