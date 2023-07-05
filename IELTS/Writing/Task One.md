@@ -27,3 +27,21 @@
 <img width="553" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/2d149611-940b-430f-b4d2-0f163c21e021">
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/8426758/229342773-b3efc755-2401-4982-ae62-cd94491bc6ba.png">
+
+# 曲线图
+
+## 描述趋势变化的常用表达
+
+* rise, increase, grow, go up, improve, climb, ...peak
+* decrease, fall, drop, dip, go down, decline, reduce...bottom
+* remain/stay/maintain steady/stable/level, level out/off
+* fluctuate
+
+例子：过去20年里，中国超重人口增加了
+
+* The number of overweight people in China has increased over the past twenty years.
+* There has been an increase in the number of overweight people in China over the past twenty years.
+
+例子：过去从2015年到2019年，学生在住宿方面的花费占总支出的百分比下降了3%，从23%下降到20%
+
+* 
