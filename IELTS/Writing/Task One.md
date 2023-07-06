@@ -44,4 +44,31 @@
 
 例子：过去从2015年到2019年，学生在住宿方面的花费占总支出的百分比下降了3%，从23%下降到20%
 
-* 
+* The persentage of the expense on accmmodation for students decreased by 3%(from 23% to 20%) over the period between 2015 and 2019.
+* There was a 3%decrease in students' spending on accmmodation, which fell from 23% to 20%.
+* During the period 2015 to 2019, students spent 3% less on accmmodation, which fell from 23% to 20% of total expenditure.
+
+## 介词的使用
+
+* in - a change in category. (a fall in living standards) 表示范围
+* of - noun + of + amount(a fall of 20%) 表示幅度
+* by - verb + by + amount(it rose by 15%) 表示幅度
+* at - a fixed number(the record stood at 250kph) 表示某个具体点
+
+## 表示变化（形容词/副词）
+
+* 明显 great, considerable, ennormous, significant, substantial, dramatic
+* 微弱 slight, moderate, modest, marginal
+* 迅速 sharp, rapid, dramatic, steep
+* 缓慢 slow, steady, stable
+
+## 趋势与时态的使用
+
+* 一般过去时：yesterday, in 2017, last year...
+* 现在完成时：since 2017, ever, this month...
+* 将来时：next year, tomorrow, over the next week...
+* 谈论未来或是预测数据：are/is likely/predicted/expected to
+
+# 曲线图示例
+
+<img width="480" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/8db1183c-78a5-4b4b-b7e3-73b17dc24782">
