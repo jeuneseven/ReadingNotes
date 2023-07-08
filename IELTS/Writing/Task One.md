@@ -73,4 +73,11 @@
 
 <img width="480" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/8db1183c-78a5-4b4b-b7e3-73b17dc24782">
 
+* 任务完成情况：分析每条曲线各自的变化以及彼此之间的共同点和差异点
+* 连贯与衔接：分段、关联词、代词等的使用
+* 词汇和语法：正确使用多样化的词汇和语法手段
+
+<img width="466" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/b250a2a5-464f-49ad-bf5d-6704427c8dd8">
+
+
  
