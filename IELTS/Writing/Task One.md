@@ -79,5 +79,6 @@
 
 <img width="466" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/b250a2a5-464f-49ad-bf5d-6704427c8dd8">
 
+<img width="574" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/c0c38aaf-ea20-452a-9e54-1ae0d20dcb9e">
 
  
