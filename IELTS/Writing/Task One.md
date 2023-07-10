@@ -69,7 +69,7 @@
 * 将来时：next year, tomorrow, over the next week...
 * 谈论未来或是预测数据：are/is likely/predicted/expected to
 
-# 曲线图示例
+# 曲线图示例1
 
 <img width="480" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/8db1183c-78a5-4b4b-b7e3-73b17dc24782">
 
@@ -81,4 +81,7 @@
 
 <img width="574" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/c0c38aaf-ea20-452a-9e54-1ae0d20dcb9e">
 
- 
+# 曲线图示例2
+
+<img width="747" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/a68a82d4-6851-42bf-b67d-fc21595cea7b">
+
