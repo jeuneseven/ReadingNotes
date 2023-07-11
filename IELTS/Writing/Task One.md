@@ -1,6 +1,6 @@
 # 类型
 
-* 数据图：曲线图 graph，柱状图 bar chart（横竖两种，最多考），饼状图 pie chart，表格 table
+* 数据图：曲线图 graph，柱状图 bar chart（横竖两种，考察最多），饼状图 pie chart，表格 table
 * 流程图/示意图 diagram
 
 # 基本架构
