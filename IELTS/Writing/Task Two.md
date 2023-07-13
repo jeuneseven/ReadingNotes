@@ -19,3 +19,12 @@
 * writing as hortation(should x be done...)
 * real world phenomena as proper subject of writing
 * writing as an activity separate from reading
+
+# 评分
+
+## 五分 vs 六分
+
+* 五分部分跑题；六分涵盖所有题目内容，不跑题
+* 
+
+## 六分
