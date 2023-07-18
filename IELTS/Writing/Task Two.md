@@ -42,8 +42,20 @@
 # 题目构成
 
 * topic + question
+  * topic 决定写作内容
+  * question 决定写作框架结构
 * topic种类：教育、社会、环保、科技、政府、文化
+* question种类
+  * compare advantanges and disadvantages
+  * discuss the reasons for something
+  * discuss the results of current problems or issues
+  * suggest some solutions to current problems or issues
+  * evaluate two conflicting opinions and give your ideas
+  * say to what extent you agree or disagree with an opinion
 
-# 跑题原因
+# 跑题原因 off-topic
 
-
+* 注意题目的具体内容
+* 注意核心词
+* 注意修饰词
+* 注意问题的提问方式（分析原因？分析结果？）
