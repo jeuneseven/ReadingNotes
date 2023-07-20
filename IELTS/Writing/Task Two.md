@@ -62,6 +62,6 @@
 
 # 观点的拓展
 
-* 提出观点 presents
+* 提出观点 presents：区分事实和观点
 * 延展观点 extends
 * 支持观点 supports
