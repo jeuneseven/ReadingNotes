@@ -131,6 +131,6 @@ Examples:
 ## Answer Logic 3: Propose solution actions
 
 Language Point 3: Use expressing definite actions phrases.
-Examples: ...they must try to get rid of bullying it schools.
-...we should clean up the rivers and
-seas.
+Examples: 
+* ...they must try to get rid of bullying it schools.
+* ...we should clean up the rivers and seas.
