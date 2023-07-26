@@ -1,4 +1,17 @@
-<img width="1121" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/2d1a93a9-4a39-47f8-bd94-e68a4efd44c3">
+# subskill
+
+* skimming for main idea
+* scanning for specific information
+* identifying key words
+* identifying key idea
+* distinguishing fact and idea
+* reading in chunks
+* paraphrasing
+* collocation
+* guessing words from context
+* reading for detail
+* coherence and cohesion
+* grammar focus
 
 # 核心技能1 paraphrasing（贯穿听说读写）
 
