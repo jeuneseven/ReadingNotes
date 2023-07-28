@@ -57,6 +57,50 @@ ITELTS (International English Language Testing System)
 
 ### 查
 
+#### Capital Letters
+
+* name of people 
+* name of place
+* title(movie, book, people)
+  * Mr, Mrs, Miss, Ms（完整答案必须带title）
+  * Dr, Doctor
+  * Prof
+* subject title
+  * International Business
+* Month/Day 不要缩写
+* Language:Spanish...
+
+#### Abbreviations
+
+* Month/Day 5-7月没有缩写形式
+* Currency Symbols 如果题干中给了货币符号，答题纸中不抄写英镑，美金，欧元符号
+* a.m. p.m. AD BC:大小写统一、.统一
+
+#### 字数限制
+
+#### Spelling
+
+* environment
+* government
+* accommodation
+* committiee
+
+#### Grammar
+
+* singular & plural
+  * 查看题干有无单复数线索
+  * 写复数
+* prepositions
+  * in the morning
+  * at night
+  * in advance
+* nationality: American, Chinese, Canadian, Australian, Australian, British, German
+* nation: America, China, Germany
+
+#### Question Number
+
+* 确认题号和答案，不要抄错行
+
 ## 复习方法
 
 * Question answering
