@@ -23,7 +23,12 @@
  
 ## 同义词
 
+常见替换：
+
 <img width="243" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/f95041da-d63c-4a50-9dca-05b5597b87e0">
+
+### 例子
+
 <img width="458" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/f6c77f36-7466-44ae-9965-0ba7d5cc7c1e">
 
 ## 抽象概括
