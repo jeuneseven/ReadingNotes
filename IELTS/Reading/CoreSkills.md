@@ -39,7 +39,7 @@
 
 <img width="455" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/590c39aa-141e-442f-83e4-7810a7a2ccc3">
 
-# 核心技能2 Identify key idea
+# 核心技能2 identify key idea
 
 ## 句子的 key idea
 
@@ -69,7 +69,7 @@
 * 常见的句间关系：顺：并列、递进、因果；转：转折、让步、对比
 * 看一个段落有几句话+句子之间的关系
 
-# 核心技能3 Skimming and scanning
+# 核心技能3 skimming and scanning
 
 * skim a text quickly to **understand the main idea**
 * scan a text quickly to **find specific information**
@@ -78,14 +78,18 @@
 
 ## skimming
 
+* choosing a book from a library or bookshop
+* looking through a magazine for an interesting article
 * 确认文章的 main idea
 * 重点：标题+首段+各段首句
 * 非重点：解释、细节、例子、引言、数据
 
 ## scanning
 
+* looking up a word in the dictionary
+* finding a particular news story in a newspaper
 * 重点看哪些 specific information
-* 关键词：大写、数字、转有名词、生词
+* 关键词：大写、数字、专有名词、生词
 * content words 和同义替换
 
 # 答题策略
