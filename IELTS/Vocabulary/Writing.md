@@ -52,3 +52,33 @@
   * flexible 灵活的
   * undesirable 不受欢迎的 不需要的
   * probable 可能的; probably 可能地
+* ous: 通常对词根基本意义进行引申
+  * various 多样的
+  * momentous 重要的
+  * advantageous 有利的
+* ic id: 代表一种属性
+  * enthusiastic 热情的，热心的
+  * academic 学术的
+  * dramatic 引人注目的
+* ful: 充满...的
+  * painful 令人不快的
+  * helpful 有益的
+  * meaningful 有意义的
+* ive: 通常与心态有关
+  * positive 积极的 negative 消极的
+  * active 主动的 passive 被动的
+  * respective 各自的
+
+# 灵活运用
+
+* it rose suddenly in 2000
+* there was a suddenly rising trend in 2000
+* the year 2000 saw a sudden rise
+
+## 小作文
+
+* 上升：increase rise；极少使用 soar surge rocket
+* 注意程度词的配合
+  * 表示急剧的词：considerably; greatly; noticeably; rapidly; dramatically; remarkably; markedly; sharply; enormously; substantially; significantly
+  * 表示突然的词：suddenly; abruptly; surprisingly
+  * 表示平缓的词：slightly; steadily; stably; smoothly; moderately; gradually; mildly
