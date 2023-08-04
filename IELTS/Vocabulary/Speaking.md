@@ -133,3 +133,45 @@
 社交软件  | social networking 
 耐用的  | durable
 支付方式  | payment method
+
+# 事件类话题
+
+## 运动
+
+* Paragliding is a thrilling extreme sport. It is not particularly popular in China, so once you send your video to the moment of wechat, you will definitely be eye-catching.
+* This show taught me a lot of unknown sercets. The elephants that looked so smart in the performance were so ill-treated, and I decided not to watch the circus performance anymore.
+* In fact, I don't have much opinion about what major to study. My parents are more concerned about this matter. They feel that if I read business, I will have a wider employment range in the future.
+
+词根 ill-否定前缀；不好，很差
+
+中文  | 词汇
+------------- | -------------
+强身健体  | keep fit
+运动量  | momentum
+增强体质  | to strengthen one's physique
+费力的  | arduous
+冒险的  | adventurous
+骨折  | bone fracture
+崴脚  | sprain the ankle
+抽筋 | cramp
+潜水  | dive
+紫外线  | ultra violet
+展示的很差 | illdemonstrated
+乱糟糟的  | illpresented
+虐待  | illtreated/maltreat
+
+## 变化
+
+中文  | 词汇
+------------- | -------------
+前所未有的  | unprecedented
+期望的  | anticipated
+意外的  | unexpected
+有压力的  | stressful
+叛逆的  | rebelious
+不断变化  | constantly changing
+戏剧性的  | dramatic
+有影响力的  | influential
+有成就感的  | a sense of achievement
+家庭关系的  | domestic relationship
+
