@@ -54,3 +54,82 @@
 
 # 地点类话题
 
+* It is a medium-sized house with a simple decoration. In fact, I don't like big house coz it's not cozy enough.
+* It is a coastal/inland city known for its abundance of seafood. And there are many tourists coming on summer vacation.
+* This garden is a fantastic place to relax. I often come here on weekends to breathe the fresh air.
+
+中文  | 词汇
+------------- | -------------
+家具  | furniture
+古典风格  | ckassical style
+室内设计  | interior design
+整洁的  | tidy
+装修  | decoration
+朝阳  | south-facing
+豪华的  | luxurious
+智能的  | smart
+一尘不染  | spotless
+平方米  | square meters
+衣柜  | wardrobe
+木地板  | wooden floor
+没有污迹，不生锈的  | stainless
+位于  | be located in
+内陆  | inland city
+娱乐业  | entertainment industry
+风味小吃  | local snacks
+历史名胜  | places of historical interest
+四季分明  | distinctive seasons
+主要旅游景点  | main tourist attraction 
+避暑胜地  | summer resort
+热情好客  | friendly and hospitable people
+繁荣的经济  | prosperious economy
+主题公园  | theme park
+喷泉  | fountain
+晒太阳  | sunbath 
+花坛  | flower bed
+安静的  | peaceful serene
+植物园  | botanical garden
+雕塑  | sculpture
+长椅  | bench
+儿童游乐场  | children's playground
+精神换发  | feel refreshed
+
+# 物品类话题
+
+## 电影
+
+* This was a romance film which was adapted from a real touching love story. At that time, it was definitely a big hit.
+
+中文  | 词汇
+------------- | -------------
+主演  | starring
+译制片 | dubbed film
+票房  | box office
+票房最高  | highest-grossing
+视觉效果  | visual effect
+发人深省  | thought-proviking
+受启发的  | inspired
+超级英雄电影  | superhero film
+科幻电影  | science fiction
+文化冲击  | cutural shock
+
+## 礼物
+
+* Its camera function is particularly powerful. When I went to the concert, it could shoot the singer even at a great distance. And the memory is big enough, I don't have to worry about always cleaning the background.
+
+## 网站
+
+* If I don't have a membership, it will pop-up advertisement every once in a whild, which makes me very impatient.
+
+中文  | 词汇
+------------- | -------------
+实用的  | pritical
+精致的  | delicate
+买的很划算  | good value for money
+易碎的  | fragile
+性价比高的  | performance-price ratio
+视频软件  | video app/software
+便携式的  | portable
+社交软件  | social networking 
+耐用的  | durable
+支付方式  | payment method
