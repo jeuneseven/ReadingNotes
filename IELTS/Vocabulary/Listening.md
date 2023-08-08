@@ -98,4 +98,91 @@
 * commerce 商业 commercialization 商业化  merchandise 商品、推销
 * mars 火星、战神 martial 军事的 marshal 元帅 
 
+## 抽象名词词尾
 
+* ment、ness 最常见的两个词根，可断定基本是名词
+* 动词+ment=名词  government
+* 形容词+ness=名词    bitterness 苦、痛苦
+  * sour, sweet, bitter, spicy, salty
+
+## 容易造成误解的词尾
+
+tion、sion、ture、sity 都不是词尾
+如  notion=note+ion 想法
+    motion=mot+ion 动作
+ion引申出来的词尾：发音和拼写完全固定
+ation=ate+ion
+ization
+alization
+
+region、fashion、million(aire)、opinion、union、companion
+option、reception、invention、exhibition、donation、set/lay a foundation、fiction
+
+### vision
+
+* vis+ion
+    * tele(远程的)+vision
+    * visible 能看到的
+    * visual 视觉的   visual effect 视觉效果
+* 英语是混合语言，从德国、法国、拉丁语词根+英语自己的词尾 
+* seeable->visible
+  * hearable->audible believable->credible adapeable->compatible 适应力强的 incompatible 冲突的 矛盾的
+* gl 光 glory 光荣 glare 刺眼 glim 烛光 glamor 迷人 glance 眼前一亮
+* ump 突出物 bump 肿块 hump 驼峰 clump 土块 plump 丰满的 dump 垃圾堆
+* sn 不舒服的声音  sneer 嘲笑 snap 呵斥 snigger 偷笑 sneeze 打喷嚏 snore 打呼噜
+
+## 词尾固定
+
+* ity 永远固定 不会是 aty 或 ety
+    * electricity university  humidity 湿度   density 密度
+* ure 永远固定 不会是 rue 或 uer
+    * pressure procedure 程序 fracture 骨折 expenditure 支出
+
+## 几个核心且高频的词根
+
+### press 按压、出版、记者
+
+固定的发音对应固定的拼写
+
+* press-ure: express impress compress 压缩 suppress 抑制 oppress 压迫 depress 抑郁、萧条	
+* pro-ced-ure
+* fract-ure
+* ex-pend-iture
+
+### ced cess 走
+
+* access 接近 通道    accessory 饰品
+* proceed 继续        process 过程 	pro 表示向前
+* precede 领先        predecessor 祖先 	pre 代表在前
+* exceed 超过         excessive 极度的
+* succeed 成功         successive 连续的，继承的
+
+### fract 碎	ct=g 互换
+
+* segment 部分 = section 部分
+* agile 活泼的 = active 积极的
+* pragmatic 实用的 = practical 实用的
+* fraction 分数 碎片 fragile 易碎的
+
+### pend 悬挂 称量 金钱
+
+* pending 等待批准
+* depend 依赖
+* suspend 悬挂
+* dispense 分配
+* indispensable 不可或缺的
+* pension 养老金
+* compensate 补偿
+
+## 相对低频但会导致拼写错误的词尾
+
+* age:carriage luggage cottage percentage
+* hood:neighborhood adulthood likelihood 可能性
+* ship:leadership 领导力 ownership 所有权 hardship 困难
+* ism:tourism journalism mechanism optimism
+
+## 扩充
+
+* -ia = 病 malaria 疟疾 insomnia 失眠 amnesia 健忘
+* -um = 金属 aluminum 铝 argentum 银 
+ n
