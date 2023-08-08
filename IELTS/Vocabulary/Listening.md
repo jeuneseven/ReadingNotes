@@ -65,7 +65,37 @@
     * communicate 交流 commute 上下班 communal 共同的
 * ify:读音 e fai: simplify justify purify classify sense of identity 认同感
 * ize/ise 读音 ai zi: socialize urbanize modernize commercialize 形容词+ization 代表...化
-* ish 读音 e shi: finish final infinity
+* ish 读音 e shi: finish final infinity distinguish(distinct distinction) extinguish 消灭 diminish 减少
 * ern: 东西南北变形容词加ern
-* en:读音 en: 可前可后 enlighten 启发
-* 一个动词如果以de结尾，形容词一般会变为sive，名词会变为sion: decide decisive decision
+* en:读音 en: 可前可后 enlarge endanger enhance enlighten 启发 shorten lengthen widen broaden fasten 系紧 loosen 松开
+* 一个动词如果以de结尾，形容词一般会变为sive，名词会变为sion: decide decisive decision; explode explosive explosion; invade invasive invasion
+
+## 表示人的词尾/也可以指代机器
+
+* er: 英语自身词尾，一般跟直接动词 geographer、examiner、writer、teacher、player、trainer
+* or: 从法语借用，通常拼一些需要专业技能的词 director、investor、author、professor、actor、instructor
+* ist: 从 ism 派生 artist、pianist、physic、physicist、scientist
+* ology: 表示学科 psychologist、zoologist、sociologist
+* ian: musician、comedian、civilian、historian、Australian、Canadian
+* ant: assistant、immigrant、inhabitant、accountant、participant、merchant
+
+### 引申
+
+* vest 马甲 invest 投资；investigate 调查 FBI Federal Bureau of Investigation
+* struct 建造、建筑 instructor 讲师 structure 结构 construct reconstruct destruct 
+    * infrastructure 基础设施 近义词 facility amenity 便利设施
+* vacuum cleaner vac 词根，空的 vacuum 真空 vacant 空余的 evacuate 清空、撤离 vacation 假期 vocation 职业
+* physicist 物理学家 physician 内科医生  surgeon 外科医生 surgery 外科手术
+    * physical 生理的，身体的 mental psychological 心理的
+    * the physical world 客观世界
+* sociologist 社会学家   socio 社会 socioeconomic 社会经济的
+    * eco 生态的 ecosystem 生态系统
+    * bio 生物的  biodiversity 生物多样性
+    * geo 地理的  geoengineering 地质工程
+    * thermo 热的 thermometer 温度计
+* accountant 会计 account 账户B1 描述B2 on account of 因为B2 take into account 考虑B2 by one's account 据说C1 account for 占...比例
+* merchant 商人 merc 商业 mercury 水银 水星 商业之神
+* commerce 商业 commercialization 商业化  merchandise 商品、推销
+* mars 火星、战神 martial 军事的 marshal 元帅 
+
+
