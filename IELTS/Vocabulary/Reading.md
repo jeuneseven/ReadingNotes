@@ -52,6 +52,7 @@
 * hypo 在下面：hypothesis 假设
 * up-down: downplay 轻视 downturn 下降趋势 decline
 * over-under: underestimate 轻视 under-achievement 低成就、学习成绩不好 under-achieving 不能达成的 over-ambitious 过于有野心
+* emit 发送 transmit 传输 
 
 ### sub
 
@@ -59,11 +60,47 @@
 * substitute 代替 = replace
 * subsequent 后来的 sub+seq（顺序）+ent consequence 结果
 * substantial 根本上 submit 提交
-* sub表示从属: submit 提交 submissive 服从的 emit 发送 transmit 传输 subordinate 从属 sub-discipline 二级学科
-* de: 代替
+* sub表示从属: submit 提交 submissive 服从的 subordinate 从属 sub-discipline 二级学科
+
+#### sub的变形 
+
+* 遇到比sub的b还弱的辅音，将b改成此字母
+
+* suc: successive
+* suf: suffer undertake undergo
+* sup: supplement supplementary=extra 补充的
+* sus: sustain sustainable 可持续的
+
+### de: 向下 变坏
+
+* 发音为 [de] 且为重音部分
+* decrease
+* decline
+* descend
+* deposit 沉淀 存放=pos（put）down
+* destruct 破坏
+* deforestation 森林砍伐
+* degradation 退化、降解
+* deteriorate 恶化
+* detrimental 有害的 词根 trim 代表裁剪、削减
+* deprive 剥夺
+* 一些特例，但并非de为前缀
+  * decorate 装饰 来自法语
+  * destiny 命运 destin y
+  * delicate 精致的 delic ate
+  * democratic 民主的 demo crat ic
+* 特殊发音 [di:] 解开
+  * decode 解码
+  * detoxify 解毒
+  * defoliate 落叶
 
 ## 里外
 
+### ante 在前面
+
+* antecedent 祖先，之前的 
+
+### in变形：im il ir
 
 
 ## 前后
@@ -72,5 +109,18 @@
 
 ## 合分
 
+### con变形: co com col cor 代表合
 
 
+### syn 变形: sym syl 
+
+
+### dis 变形：di dif
+
+
+### ob 变形：of op
+
+* ob=against obstacle 障碍
+* offend 冒犯
+* opponent 对手
+* opposite 相反的, 对面的
