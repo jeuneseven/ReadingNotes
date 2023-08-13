@@ -105,7 +105,51 @@
 
 ## 前后
 
+* ante 在前面 antecedent 祖先 之前的 ancestor 祖先 antique 古董
+* fore 前面的 forefather 祖先 forecast 预报
+* post 在后面 postwar 战后 postpone 推迟 postgraduate 研究生
 
+### pre 前
+
+* preview 预习
+* prehistoric 史前的
+* prehistory 史前
+* presume 推测 (提前说 = assume)
+* precaution 预防 警惕
+* prevail 流行 prevalent 流行的
+* predecessor 祖先
+* prestige 威望 名声
+
+### pro 向前
+
+* profound 深刻的
+* prolong 延长
+* propose: put forward 提出
+* proficient 熟练的
+* 
+
+### re 后
+
+re+词根=反向趋势
+
+* review 复习
+* respond 反应
+* reflect 反射
+* retract 收缩
+* reject 拒绝
+* reduce 减少
+* removal 切除、移除
+* restrict 限制 restriction
+* reluctant 不情愿的
+
+#### re 表示重复
+
+re+实义词=重复
+
+* replay 重播
+* republish 再版
+* review 复习
+* reproduce 复制
 
 ## 合分
 
