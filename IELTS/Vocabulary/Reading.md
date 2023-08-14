@@ -96,6 +96,53 @@
 
 ## 里外
 
+### ex e 向外
+
+* external 外部的
+* exterior 外部的
+* superior 高级的
+* extrinsic 外在的
+* explicit 详细的
+* expose 暴露 compose 构成 suppose 假设 dispose 处理
+* exclude 排除 include
+* exhaust 使筋疲力尽
+* exhibit 展出 展品 inhibit 抑制
+* expenditure 花费 支出
+* exotic 外来的 外国的
+* exceed 超过 proceed 前进 开始 process 过程 处理 precede/preceding to 领先 recede 后退
+* excess 过量 be well in excess of 远超出...
+* excessive 过多的
+* extend 延伸 扩大 tend 趋向 trend tendency 趋势 intend 打算 pretend 假装 contend 竞争
+* extent 程度 to some extent 从某种程度上说 intent 目的 intention 意图 intentional 故意的、有意的
+
+### e开头往往有off的意思
+
+* eliminate 消除
+* eradicate 根除
+* evaporate 蒸发
+* evacuate 撤离
+* erase 抹去
+* erode 腐蚀
+
+### in(im) 向里、从内心深处
+
+in+形容词=否定: incredible impatient irregular illegal
+in+词根/名词=向内、内心
+
+* internal 内部的
+* interior 内部的
+* inferior 低级的
+* intrinsic 本质的 固有的 与生俱来的
+* implicit 含蓄的 imply
+* incorporate integrate = 合并、整合
+* integral 完整的 必须的
+* invade 入侵 evade 逃跑 pervade 遍布
+* impose 强加 put in = force = compel = oblige = constrain
+* incentive 动机、刺激
+* inspire 启发、鼓舞 motivate stimulate stir excite
+* instigate 鼓动、煽动
+* impulse 冲动、脉冲
+
 ### ante 在前面
 
 * antecedent 祖先，之前的 
@@ -126,7 +173,16 @@
 * prolong 延长
 * propose: put forward 提出
 * proficient 熟练的
-* 
+* prosper 繁荣的 properous properity sper=spirit desperate 绝望的
+* productive 有生产力的 富有成效的 productivity 生产力
+
+### pri 首要的
+
+* primeminister 首相
+* primary school 小学
+* primarily 首先
+* privilege 特权
+* priority 优先权
 
 ### re 后
 
