@@ -211,11 +211,45 @@ re+实义词=重复
 
 ### con变形: co com col cor 代表合
 
+#### 遇到元音和h，变co
 
+* coexist 共存 cooperate coherence cohesion
+
+#### 遇到r，变cor
+
+* correspond 一致 political correctness 政治正确
+
+#### 遇到l，变col
+
+* collection 收集 收藏
+* collaborate 合作
+* collapse 倒塌 数据暴跌也可以用
+
+#### 遇到b/p/m，变com
+
+* combine 结合 混合
+* communal 共同的
+* compensate 补偿
+* component 部分
+* comprise 构成 组成 占比例
+* commute 通勤
+* commit 犯错
+* compress 压缩
+* comparative 比较的 相对的
+* communal 公共的 = public immune 免疫的 = not public
+* community 社区 校区 municipal 市政的 公共的 城市的
+* 
 
 ### syn 变形: sym syl 
 
+* synthetic 合成的 synthesis 合成 synchronic 同步的 chron 时间 chronic 慢性的
+* sympathy 同情 pathetic 可怜的
+* symptom 综合症状
 
+### se 
+
+* separate 区别 分别的
+* segregate 隔离 = isolate
 
 ### dis 变形：di dif
 
