@@ -238,7 +238,6 @@ re+实义词=重复
 * comparative 比较的 相对的
 * communal 公共的 = public immune 免疫的 = not public
 * community 社区 校区 municipal 市政的 公共的 城市的
-* 
 
 ### syn 变形: sym syl 
 
