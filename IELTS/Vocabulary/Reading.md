@@ -232,12 +232,16 @@ re+实义词=重复
 * compensate 补偿
 * component 部分
 * comprise 构成 组成 占比例
-* commute 通勤
+* commute 通勤 mut = change 变化 mutable 容易变化的 mutual 相互的 mutant 变异的
 * commit 犯错
 * compress 压缩
 * comparative 比较的 相对的
 * communal 公共的 = public immune 免疫的 = not public
 * community 社区 校区 municipal 市政的 公共的 城市的
+* compensate 补偿 pension 养老金 expenditure 支出
+* component 成分 = ingredient opponent 对手 对立的 exponential 指数的
+* compose 构成 decompose 分解
+* comprise 构成 consist of、account for
 
 ### syn 变形: sym syl 
 
