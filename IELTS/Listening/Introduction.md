@@ -105,6 +105,6 @@ ITELTS (International English Language Testing System)
 
 * Question answering
 * Answer checking:不要直接比对答案，再听一遍比对答案
-* Dictation：写
+* Dictation 听写
 * Pronunciation correction
 * Retell & repeat: 听之后自己重复说
