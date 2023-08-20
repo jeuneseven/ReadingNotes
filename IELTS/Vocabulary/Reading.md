@@ -233,7 +233,7 @@ re+实义词=重复
 * component 部分
 * comprise 构成 组成 占比例
 * commute 通勤 mut = change 变化 mutable 容易变化的 mutual 相互的 mutant 变异的
-* commit 犯错
+* commit 犯错 commitment 承诺
 * compress 压缩
 * comparative 比较的 相对的
 * communal 公共的 = public immune 免疫的 = not public
