@@ -233,15 +233,28 @@ re+实义词=重复
 * component 部分
 * comprise 构成 组成 占比例
 * commute 通勤 mut = change 变化 mutable 容易变化的 mutual 相互的 mutant 变异的
-* commit 犯错 commitment 承诺
-* compress 压缩
-* comparative 比较的 相对的
+* commit 犯错；犯罪 commitment 承诺 committee 委托
+* compress 压缩 = condense = contract = compact
+* comparative 比较的 相对的 compared with 与...相比较（没有compared to 或 comparing with） 
 * communal 公共的 = public immune 免疫的 = not public
 * community 社区 校区 municipal 市政的 公共的 城市的
 * compensate 补偿 pension 养老金 expenditure 支出
 * component 成分 = ingredient opponent 对手 对立的 exponential 指数的
 * compose 构成 decompose 分解
 * comprise 构成 consist of、account for
+
+#### con 与其他字母一起拼，都写成 con
+
+* conflict 冲突 = clash = collision
+* confuse 使混乱 使困惑 confusion(n) resolve any confusion
+* congestion 拥挤 = jam gest = move ingest 摄入 digest 消化
+* constant = consistent 持续的 一致的 = eternal = permanent = perpetual
+* consult 咨询 con 一起 sult 商议 council 委员会 consulate 领事馆
+* concrete = con + create 混凝土 具体的 abstract 抽象的 devoid/lack of 不具备...
+* confirm 确认 证实 firm adj牢固的 n企业 by and large 总的来说
+* convince 使确信 assure = ensure convincing 令人信服的
+* conviction 信念 确信 = belief 想法
+* conscious 有意识的 意识到的 = aware = recognized subconscious 下意识的 unconscious 无意识的
 
 ### syn 变形: sym syl 
 
@@ -256,7 +269,19 @@ re+实义词=重复
 
 ### dis 变形：di dif
 
+碰到v或m时会变成 di, 碰到f 变成 dif
 
+* divide 分开
+* dimension 维度
+* divorce 离婚
+* diverse 不同的 diversity 多样性
+* differ 意见分歧
+* diffuse 扩散
+
+### dis 分
+
+* dis + 实义词 = 否定 disadvantage disorder dissappear disability 残疾
+* dis + 词根 = 分 distinguish 区分 distinct 不同的 dismiss 解雇 忽视 distribute 分布 dissolve 分解 dispense 分配 indispensable 不可缺少的
 
 ### ob 变形：of op
 
