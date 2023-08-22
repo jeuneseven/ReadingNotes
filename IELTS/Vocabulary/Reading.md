@@ -398,4 +398,21 @@ re+实义词=重复
 * ven = go(went) ventilation 通风 advent 到来
   * avenue = road 路 听力更为高频，缩写为 Ave.
   * revenue 收入 re=back
-  * avenge 
+  * avenge = revenge 复仇
+* clarity 阐明 清晰 来自clear
+* charity 慈善 char = car = cher 喜欢爱护 cherish 珍惜 careless 无忧无虑的
+* conference 会议 confer on 带来
+* reference to 提到...
+* interfere with 干扰...
+* costume 服饰 cosplay
+* custom 习惯 customer 顾客 = consumer
+* consume 消费 消耗 = use eat
+* assume = presume 假设
+* tact 接触 contagious 污染的 intact 完整的 contact
+* tract 拖、拉 tractor 拖拉机 extract 提取 abstract 抽象的 distract 分心 detract 削弱
+* in/by contrast 相比之下 on the contrary 恰恰相反
+* contest 竞赛 context 背景 = background cultural context 文化背景
+* conservation 保护 节约 serve 服务 作为词根时是 保留 reserve 预定 保护区 preserve 保护 储存 conserve 保存 conservative 保守的 reservior 水库
+* conversation verse 词根 旋转 = revolve = rotate reverse angle 相反角度 inverse proportion 反比例 converse 谈话、相反的 diverse 不同的 adversity 逆境 versatile 多功能的
+* 
+
