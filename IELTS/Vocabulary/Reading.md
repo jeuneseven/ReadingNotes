@@ -44,6 +44,93 @@
 
 # 前缀
 
+* 通常表示积极趋势的前缀：con 合；pro 向前；ben 好
+* 通常表示消极趋势的前缀：dis 分；re 往回；de 破坏；mal 坏
+* 否定前缀：un in a ob contra non anti with mis
+
+## ad 表示加强语气
+
+* ad + 单词/词根 = 使动用法 + 加强; 更多的时候ad会受到后面字母的影响，改成双写，比如 ad + sure = assure
+* adjust 使更公正 = 调整
+* adequate 使更均等 = 充足
+
+## per、inter 和 trans
+
+### per 从头到尾
+
+* permeate 渗透
+* persis 坚持
+* permanent 持久的
+* perspiration 出汗
+
+### inter 相互之间
+
+* intercity 城际的
+* interpersonal 人际的
+* interchange 交换
+* interact 互动
+* interdependence 相互依赖
+
+### trans 越过 转移
+
+* transcend 超越
+* transnational 跨国的
+* transform 变形
+* transplant 移植
+* transfer 改变 中转 transit
+* transmit 传输
+
+## 和数字相关
+
+* uni unique 独一无二的 uniform 统一的、校服
+* bi 二 bilingual 双语的 bisect 平分
+* tri 三 triangle 三角形 triple 三倍的
+* dec 十 decade 十年 decimal 小数、十进制
+* cent 百 century 世纪 centimeter 厘米
+* mill 千 millennium 千年 millipede 蜈蚣
+* multi 多 multimedia 多媒体 multistory 多层的
+* hemi、semi 一半 hemisphere 半球
+
+## un、in 表示否定
+
+* un + 英语基础词 unhappy unable unclear uneven unaware
+* in + 拉丁语词根 inaccurate inadequate insufficient inconvenient
+
+## male bene
+
+mal/male 不好的
+ben/bene 好的
+
+* malnourished 营养不良的
+* malevolence 恶意 malediction 诅咒
+* benevolence 善意 benediction 祝福
+
+## with 表示相反
+
+* withdraw 收回、撤回
+* withstand 抵抗 反抗
+* withhold 阻止
+
+## contra counter contro 相反
+
+* controversial 有争议的
+* counteract 抵消
+* counterfeit 伪造
+* contradict 矛盾
+* contrary 相反 contrast 对比
+
+## anti 反 against
+
+* antibacterial 抗菌
+* antibiotic 抗生的
+
+## a 放在形容词前也会表示否定
+
+* asocial 不合群的
+* asymmetric 不对称的
+* apathetic 无动于衷
+* anonymous 匿名的
+
 ## 上下
 
 * ultra 在上面：ultraviolet 紫外线（UV指数）
@@ -148,7 +235,6 @@ in+词根/名词=向内、内心
 * antecedent 祖先，之前的 
 
 ### in变形：im il ir
-
 
 ## 前后
 
@@ -289,3 +375,27 @@ re+实义词=重复
 * offend 冒犯
 * opponent 对手
 * opposite 相反的, 对面的
+
+# 近义词辨析
+
+* board 板 boarding 登机 aboard 上飞机 
+* broad 宽 broaden 拓宽 abroad 出国 in broad term 更宽泛的说法
+* quire 来自于 quest require-request
+  * acquire 获得
+  * require 要求
+  * inquire 询问
+* adopt (opt=option) 采取 收养 adapt 改编 适应 adapt sb to sth = accustom 使习惯 使某人适应某事
+* rise 升起 不及物动词 sun rise
+* raise 及物动词 raise the flag 升旗
+* arise from 由...引起、产生
+* arouse 唤起、激励 = motivate = stimulate = trigger = inspire = activate = excite = ignite
+* contribute to 贡献
+* attribute to 归因于
+* distribute 分布
+* attitude 态度
+* altitude 高度、海拔 = height
+* latitude 维度 longitude 经度
+* ven = go(went) ventilation 通风 advent 到来
+  * avenue = road 路 听力更为高频，缩写为 Ave.
+  * revenue 收入 re=back
+  * avenge 
