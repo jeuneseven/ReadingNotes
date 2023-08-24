@@ -420,7 +420,32 @@ re+实义词=重复
 * reduction 缩减
 * induce 引导
 * reproduce 复制
-* conduct 进行 + experiment/study
-* 
+* conduct 进行 + experiment/study 研究、实验
+* aqueduct 水管 沟渠 aqua = 水 aquarium 水族馆
+* revise revision = change 修改 复习
+* devise = design 设计 设想 envision = envisage 设想
+* device 设备 a host of = 大量的 = a ... of
+* demise 死亡 消失
+  * (wear 穿；磨损)be worn off = be run off = be consumed = be exhausted = 被耗尽
+  * disappear = vanish = fade away = 消失
+  * perish = extinguish = 灭绝
+  * demise = mortality = 死亡 immortal 不朽的
+  * end = finish = cease = 终止
+* vital 重要的 = fatal
+  * important significant momentous leading
+  * vital critical crucial essential
+  * 主要的: chief major primary main
+  * influential remarkable decisive
+* fate 命运
+* 词根 fect fic fact 做
+  * affect 影响 infect 传染 defect = flaw 瑕疵 缺陷
+  * effective 有效的 effectiveness 效果
+  * efficient 高效的 efficiency 效率
+  * sufficient 充足的 = enough deficient 不足的 = short
+* 常见否定动词：fail doubt suspect deny refuse forbid avoid escape lack quit object abandon cancel oppose discard ignore
+* 常见否定介词：without beyond against except but excluding out of off under below
+* explore 探索 exploration(n)
+* explode 爆炸 explosion 膨胀 爆炸
+* exploit 开发 利用 
 
 
