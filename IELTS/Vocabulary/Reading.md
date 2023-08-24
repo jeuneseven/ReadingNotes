@@ -414,5 +414,13 @@ re+实义词=重复
 * contest 竞赛 context 背景 = background cultural context 文化背景
 * conservation 保护 节约 serve 服务 作为词根时是 保留 reserve 预定 保护区 preserve 保护 储存 conserve 保存 conservative 保守的 reservior 水库
 * conversation verse 词根 旋转 = revolve = rotate reverse angle 相反角度 inverse proportion 反比例 converse 谈话、相反的 diverse 不同的 adversity 逆境 versatile 多功能的
+* considerable = 值得考虑的，相当多的 considerably 程度词
+* considerate 体贴的
+* deduce 推理
+* reduction 缩减
+* induce 引导
+* reproduce 复制
+* conduct 进行 + experiment/study
 * 
+
 
