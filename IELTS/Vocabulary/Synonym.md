@@ -66,4 +66,11 @@
 * 常见否定介词：without beyond against except but excluding out of off under below
 * explore 探索 exploration(n)
 * explode 爆炸 explosion 膨胀 爆炸
-* exploit 开发 利用 
+* exploit 开发 利用
+* except= ex + cept cept = ceive 抓住、掌握; seize the time 把握时光; perceive 感觉、理解 = sense conceive + of 构思 设想 concept; accept acceptance 接受
+* expect = ex + spect 朝外看 期待; inspect 朝里看 检查; prospect 朝前看 前景; respect 朝后看 尊敬; respective 各自的; perspective 观点; aspect 方面
+* excerpt 摘录
+* 
+
+
+
