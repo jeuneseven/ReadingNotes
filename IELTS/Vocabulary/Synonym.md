@@ -70,6 +70,15 @@
 * except= ex + cept cept = ceive 抓住、掌握; seize the time 把握时光; perceive 感觉、理解 = sense conceive + of 构思 设想 concept; accept acceptance 接受
 * expect = ex + spect 朝外看 期待; inspect 朝里看 检查; prospect 朝前看 前景; respect 朝后看 尊敬; respective 各自的; perspective 观点; aspect 方面
 * excerpt 摘录
+* involve 主动用法：包含 = include 被动用法：参与 be involved in
+* evolution 进化 evolve 旋转 = roll out 进行、推出新产品 volve = roll e = out
+* revolve revolutionary = not traditional = 非传统的 = modern 现代的 = radicial 激进的 = uncommon 不寻常的
+  * 特别的: special particular unordinary extraordinary
+  * 奇怪的: strange odd peculiar eccentric
+* medium 中号的 中等的 媒介 复数:media
+  * med mid mod = 中: medieval 中世纪 mediterranean 地中海
+* modest 谦虚的 适中的 moderate 温和的、有节制的、中等的
+* modern = contemporary 当今的
 * 
 
 
