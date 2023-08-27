@@ -26,7 +26,7 @@
 * interfere with 干扰...
 * costume 服饰 cosplay
 * custom 习惯 customer 顾客 = consumer
-* consume 消费 消耗 = use eat
+* consume 消费 消耗 = use eat consuming 强烈的
 * assume = presume 假设
 * tact 接触 contagious 污染的 intact 完整的 contact
 * tract 拖、拉 tractor 拖拉机 extract 提取 abstract 抽象的 distract 分心 detract 削弱
@@ -79,7 +79,20 @@
   * med mid mod = 中: medieval 中世纪 mediterranean 地中海
 * modest 谦虚的 适中的 moderate 温和的、有节制的、中等的
 * modern = contemporary 当今的
-* 
-
-
-
+* patent 专利 取得专利 公开的
+* 词根 parent 看得见的 apparent 明显的 transpareent 透明的 parental 父母的 parental guidance PG18
+* potent 强大的 = powerful potential 潜在的 潜力 impotent 没有能力的
+* promising 有前途的
+  * season 季节 seasoned 风干的 调味的
+  * project 项目 projected 投射出的
+  * mean 意思是 means 方式（单复数同形）
+  * work 工作 works 作品 工厂
+* promise 承诺 com-全部 compromise 妥协 accordingly compromise 相应的妥协
+* premise 前提 场地 
+* statue 雕塑 stat = stand 站立; stable 稳定的; obstacle 障碍; static 静止的
+  * 词根 sist 也表示站立 insist 坚持（观点）;persist 坚持（精神）;resist 抵抗 re(back)sist = withstand; consistitute 建立; institute 建立 学院;constitution 体制 = institution 
+* status 地位
+* state 说明 国家 情况
+* though 连词 副词 尽管(句子前)、但是（句子中间，逗号中）
+* through 介词 形容词 副词 get through 熬过..
+* thorough 形容词 彻底的 全面的 thinking thorough 
