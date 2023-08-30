@@ -77,7 +77,12 @@
   * 具体、恰当
   * 常用表达：for example; for instance; take/consider ... as an example; a case in point; such as; including
 * 解释说明:讲道理
-  * 常用表达：it means; that is to say; in other words; to put it another way; by that I mean
+  * 常用表达：it means; that is to say; in other words; to put it another way; by that I mean; but it does not mean that
 * 因果论证
+  * 常用表达：as a result; since
 * 比较对比
+  * 常用表达：by contrast; rather than; on the contrary
 * 让步反驳
+  * 常用表达：although; it is true that...but...; admittedly
+
+
