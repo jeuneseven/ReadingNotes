@@ -62,7 +62,22 @@
 
 # 观点的拓展
 
+论证充分是判别6、7的关键
+
 * 提出观点 presents：区分事实和观点
+  * 表明观点：adv:personally / probably; modals:might / could; phrases:in my view; verb:appear to be / seem to be
 * 延展观点 extends
-* 支持观点 supports
-* 主体段落：topic sentence + supportint sentences
+* 支持观点 supports:WH(why what when how...)
+* 主体段落：topic sentence + supporting sentences
+
+## 议论文论证方法
+
+* 举例说明:摆事实
+  * 注意相关性
+  * 具体、恰当
+  * 常用表达：for example; for instance; take/consider ... as an example; a case in point; such as; including
+* 解释说明:讲道理
+  * 常用表达：it means; that is to say; in other words; to put it another way; by that I mean
+* 因果论证
+* 比较对比
+* 让步反驳
