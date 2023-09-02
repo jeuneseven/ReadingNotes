@@ -20,7 +20,7 @@
 
 * 不要照抄题目原文，会被删除掉，如果字数不够会扣分，可以进行改写
 * 主要修改事实性信息，如：show give describe
-   * 有关‘显示、表明’的词汇：show, give, describe, demonstrate, depict, illustrate, indicate, reflect, relate ...
+   * 有关「显示、表明」的词汇：show, give, describe, demonstrate, depict, illustrate, indicate, reflect, relate ...
 * 要写出趋势，并且进行归类，要注意写作顺序
 * 主体段落的 sequence 与 grouping: bus 先升后降；car 上升；bicycle、on foot 下降
 
