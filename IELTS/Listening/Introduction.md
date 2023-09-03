@@ -1,6 +1,6 @@
 # 基本信息
 
-ITELTS (International English Language Testing System)
+IELTS (International English Language Testing System)
 
 * International：国际化口音，70%英、10%美、15%澳新、5%印日……
 * Elision and Connection(通过说练习): not at all, run out of, in an hour, once in a week, Don't take it away from me.
