@@ -16,6 +16,8 @@ IELTS (International English Language Testing System)
 
 ## 评分标准
 
+逢 .25 和 .75 分数会向上调整，其他分数向下调整或不调整
+
 * 6分：23-26个
 * 6.5分：27-29
 * 7分：30-32
