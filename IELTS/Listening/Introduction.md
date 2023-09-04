@@ -35,31 +35,31 @@ IELTS (International English Language Testing System)
 
 左边占90%比例，红色部分每次都出现
 
-## 读猜听写查
+# 读猜听写查
 
-### 读
+## 读
 
 * 30秒钟审题找到核心词汇:用于定位最细节核心
 * 答案与什么相关
 * 答案决定于什么
 
-### 猜
+## 猜
 
 * 可能出现的词性
 * 可能出现的意思
 
-### 听
+## 听
 
 * 定位核心词
 * 避免陷阱（同义词和逻辑转移）
 
-### 写
+## 写
 
 * ASAP
 
-### 查
+## 查
 
-#### Capital Letters
+### Capital Letters
 
 * name of people 
 * name of place
@@ -72,22 +72,22 @@ IELTS (International English Language Testing System)
 * Month/Day 不要缩写
 * Language:Spanish...
 
-#### Abbreviations
+### Abbreviations
 
 * Month/Day 5-7月没有缩写形式
 * Currency Symbols 如果题干中给了货币符号，答题纸中不抄写英镑，美金，欧元符号
 * a.m. p.m. AD BC:大小写统一、.统一
 
-#### 字数限制
+### 字数限制
 
-#### Spelling
+### Spelling
 
 * environment
 * government
 * accommodation
 * committiee
 
-#### Grammar
+### Grammar
 
 * singular & plural
   * 查看题干有无单复数线索
@@ -99,11 +99,11 @@ IELTS (International English Language Testing System)
 * nationality: American, Chinese, Canadian, Australian, Australian, British, German
 * nation: America, China, Germany
 
-#### Question Number
+### Question Number
 
 * 确认题号和答案，不要抄错行
 
-## 复习方法
+# 复习方法
 
 * Question answering
 * Answer checking:不要直接比对答案，再听一遍比对答案
