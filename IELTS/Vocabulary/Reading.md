@@ -14,7 +14,7 @@
 * surrender A to B 放弃A，屈从B
 * project v 投影投射
   * 听力：projector 投影仪
-  * 写作：projection 预测 = prediction It is projected that ... 据预测
+  * 写作：projection 预测 = prediction; It is projected that ... 据预测
 * reject 拒绝 = refuse = decline
   * decline 表示下降是 vi，可以用 I decline you，不能用 I decline the cost
   * reduce 和 decrease 则 vt vi 都可以
@@ -375,5 +375,3 @@ re+实义词=重复
 * offend 冒犯
 * opponent 对手
 * opposite 相反的, 对面的
-
-
