@@ -28,7 +28,7 @@
 
 * 更多的考点是 受试者
 * control subject 对照组
-* 使服从: The Roman Empire subjected most of Europe to ites rule
+* 使服从: The Roman Empire subjected most of Europe to ites rule.
   * 特别注意 v A to B 的用法
   * adjust A to B 调整A以适应于B
   * apply A to B 把 A应用于B
@@ -196,7 +196,7 @@ ben/bene 好的
 * exhibit 展出 展品 inhibit 抑制
 * expenditure 花费 支出
 * exotic 外来的 外国的
-* exceed 超过 proceed 前进 开始 process 过程 处理 precede/preceding to 领先 recede 后退
+* exceed 超过 proceed 前进 开始 process 过程 处理 precede / preceding to 领先 recede 后退
 * excess 过量 be well in excess of 远超出...
 * excessive 过多的
 * extend 延伸 扩大 tend 趋向 trend tendency 趋势 intend 打算 pretend 假装 contend 竞争
