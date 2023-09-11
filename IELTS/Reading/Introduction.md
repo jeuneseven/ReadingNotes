@@ -61,7 +61,7 @@
 1. factual information 考察 T/F, argumentation 考察 Y/N
 2. T/F 都是Given, 先看 G/NG, 再看 T/F
 
-### Completion
+### Summary Completion
 
 1. 不带选项的更简单直接，原词重现即可
 2. 带选项的要注意同义词替换或者归纳总结
