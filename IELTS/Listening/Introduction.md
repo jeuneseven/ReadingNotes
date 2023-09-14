@@ -110,3 +110,25 @@ IELTS (International English Language Testing System)
 * Dictation 听写
 * Pronunciation correction
 * Retell & repeat: 听之后自己重复说
+
+# 听力考察技能
+
+## pronunciation
+
+* accent
+* elision & connection
+* confusing sounds
+
+## vocabulary
+
+* synonyms
+* spelling
+* meaning: 尽量使用英英字典
+
+## grammar
+
+* sentence structure
+* tense: at present; in the near future; in the long term future
+* voices & logical shift: A outsells B; A is outsold by B
+* collocations: in the morning; in advance; at school
+
