@@ -17,10 +17,16 @@
   * beyond
   * on one side ... the other
   * further east
-  * in the corner
+  * south-eastern
+  * on/in the corner
   * middle
   * bottom right
   * topright hand corner
+  * to the right of
+  * entry
+  * half way down
+  * close to
+  * intersection
 * 首字母大写
 
 # 关注
