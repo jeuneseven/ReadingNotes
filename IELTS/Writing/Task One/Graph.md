@@ -24,7 +24,7 @@
 
 ## 描述趋势变化的常用表达
 
-* rise, increase, grow, go up, improve, climb, ...peak
+* rise, increase, grow(growth), go up(upward movement), improve, climb, ...peak
 * decrease, fall, drop, dip, go down, decline, reduce...bottom
 * remain/stay/maintain steady/stable/level, level out/off
 * fluctuate
