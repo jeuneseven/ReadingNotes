@@ -1,4 +1,4 @@
-# 图表作文示范
+ # 图表作文示范
 
 * 不要照抄题目原文，会被删除掉，如果字数不够会扣分，可以进行改写
 * 题目的事实性信息：数据形式-研究对象-地点-时间
@@ -25,7 +25,7 @@
 ## 描述趋势变化的常用表达
 
 * rise, increase, grow(growth), go up(upward movement), improve, climb, ...peak
-* decrease, fall, drop, dip, go down, decline, reduce...bottom
+* decrease, fall, drop, dip, go down(downward movement), decline, reduce...bottom (reduction)  
 * remain/stay/maintain steady/stable/level, level out/off
 * fluctuate
 
