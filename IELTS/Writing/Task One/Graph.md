@@ -27,7 +27,7 @@
 * rise, increase, grow(growth), go up(upward movement), improve, climb, ...peak
 * decrease, fall, drop, dip, go down(downward movement), decline, reduce...bottom (reduction)  
 * remain/stay/maintain steady/stable/level, level out/off
-* fluctuate
+* fluctuate fluctuation
 
 例子：过去20年里，中国超重人口增加了
 
