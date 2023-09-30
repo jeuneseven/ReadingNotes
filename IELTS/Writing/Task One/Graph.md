@@ -73,6 +73,9 @@
 
 <img width="574" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/c0c38aaf-ea20-452a-9e54-1ae0d20dcb9e">
 
+<img width="1097" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/5cb5526c-e3a3-4b9d-bbe4-c24f41c4db5c">
+
+
 ## 曲线图示例2
 
 <img width="747" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/a68a82d4-6851-42bf-b67d-fc21595cea7b">
