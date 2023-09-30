@@ -49,10 +49,10 @@
 
 ## 表示变化（形容词/副词）
 
-* 明显 great, considerable, ennormous, significant, substantial, dramatic
-* 微弱 slight, moderate, modest, marginal
-* 迅速 sharp, rapid, dramatic, steep
-* 缓慢 slow, steady, stable
+* 幅度明显 great, considerable, ennormous, significant, substantial, dramatic
+* 幅度微弱 slight, moderate, modest, marginal
+* 趋势迅速 sharp, rapid, dramatic, steep
+* 趋势缓慢 slow, steady, stable
 
 ## 趋势与时态的使用
 
