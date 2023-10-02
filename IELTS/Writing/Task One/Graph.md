@@ -1,4 +1,4 @@
- # 图表作文示范
+# 图表作文示范
 
 * 不要照抄题目原文，会被删除掉，如果字数不够会扣分，可以进行改写
 * 题目的事实性信息：数据形式-研究对象-地点-时间
@@ -74,7 +74,6 @@
 <img width="574" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/c0c38aaf-ea20-452a-9e54-1ae0d20dcb9e">
 
 <img width="1097" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/5cb5526c-e3a3-4b9d-bbe4-c24f41c4db5c">
-
 
 ## 曲线图示例2
 
