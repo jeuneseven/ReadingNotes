@@ -7,7 +7,7 @@
 * 要写出趋势，并且进行归类，要注意写作顺序，从坐标轴或图例来看趋势
 * 主体段落的 sequence 与 grouping: bus 先升后降；car 上升；bicycle、on foot 下降
 
-<img width="553" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/2d149611-940b-430f-b4d2-0f163c21e021">
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/2d149611-940b-430f-b4d2-0f163c21e021">
 
 ![image](https://github.com/jeuneseven/ReadingNotes/assets/8426758/4695b696-33e3-483a-9aa2-56f50603bbb9)
 
@@ -63,29 +63,33 @@
 
 ## 曲线图示例1
 
-<img width="480" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/8db1183c-78a5-4b4b-b7e3-73b17dc24782">
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/8db1183c-78a5-4b4b-b7e3-73b17dc24782">
 
 * 任务完成情况：分析每条曲线各自的变化以及彼此之间的共同点和差异点
 * 连贯与衔接：分段、关联词、代词等的使用
 * 词汇和语法：正确使用多样化的词汇和语法手段
 
-<img width="466" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/b250a2a5-464f-49ad-bf5d-6704427c8dd8">
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/b250a2a5-464f-49ad-bf5d-6704427c8dd8">
 
-<img width="574" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/c0c38aaf-ea20-452a-9e54-1ae0d20dcb9e">
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/c0c38aaf-ea20-452a-9e54-1ae0d20dcb9e">
 
-<img width="1097" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/5cb5526c-e3a3-4b9d-bbe4-c24f41c4db5c">
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/5cb5526c-e3a3-4b9d-bbe4-c24f41c4db5c">
 
 ## 曲线图示例2
 
-<img width="747" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/a68a82d4-6851-42bf-b67d-fc21595cea7b">
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/a68a82d4-6851-42bf-b67d-fc21595cea7b">
 
-<img width="646" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/ddf76198-d951-4d05-a929-24342050485b">
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/ddf76198-d951-4d05-a929-24342050485b">
 
-<img width="647" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/89e55736-8631-4308-907f-fce6d602b157">
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/89e55736-8631-4308-907f-fce6d602b157">
 
-<img width="636" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/192f1166-27b7-4edd-98f3-af2acfff8a28">
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/192f1166-27b7-4edd-98f3-af2acfff8a28">
 
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/e0a3b1ca-50e0-43b7-9bf7-2e3988aa7dfe">
 
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/63201a9a-fe11-4a82-b9d2-7dff778748e3">
+
+<img width="640" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/6f5f978c-53c8-43b9-9a3c-16e7fb882a77">
 
 
 
