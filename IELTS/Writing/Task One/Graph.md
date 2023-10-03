@@ -78,3 +78,14 @@
 ## 曲线图示例2
 
 <img width="747" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/a68a82d4-6851-42bf-b67d-fc21595cea7b">
+
+<img width="646" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/ddf76198-d951-4d05-a929-24342050485b">
+
+<img width="647" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/89e55736-8631-4308-907f-fce6d602b157">
+
+<img width="636" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/192f1166-27b7-4edd-98f3-af2acfff8a28">
+
+
+
+
+
