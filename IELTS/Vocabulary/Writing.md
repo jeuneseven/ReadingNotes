@@ -77,7 +77,7 @@
 
 ## 小作文
 
-* 上升：increase rise；极少使用 soar surge rocket
+* 上升：increase rise; 极少使用 soar surge rocket
 * 注意程度词的配合
   * 表示急剧的词：considerably; greatly; noticeably; rapidly; dramatically; remarkably; markedly; sharply; enormously; substantially; significantly
   * 表示突然的词：suddenly; abruptly; surprisingly
