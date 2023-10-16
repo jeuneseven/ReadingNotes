@@ -185,4 +185,3 @@ option、reception、invention、exhibition、donation、set/lay a foundation、
 
 * -ia = 病 malaria 疟疾 insomnia 失眠 amnesia 健忘
 * -um = 金属 aluminum 铝 argentum 银 
- n
