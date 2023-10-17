@@ -19,7 +19,7 @@
   * decline 表示下降是 vi，可以用 I decline you，不能用 I decline the cost
   * reduce 和 decrease 则 vt vi 都可以
 
-### 如何区分objective 和 subjective
+## 如何区分objective 和 subjective
 
 * S+V+O 主谓宾结构，S是subjective，主，subject 科目、主题、主
 * UFO = unidentified flying object 物体是客观的，客
