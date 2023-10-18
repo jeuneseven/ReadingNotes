@@ -90,7 +90,13 @@
 * promise 承诺 com-全部 compromise 妥协 accordingly compromise 相应的妥协
 * premise 前提 场地 
 * statue 雕塑 stat = stand 站立; stable 稳定的; obstacle 障碍; static 静止的
-  * 词根 sist 也表示站立 insist 坚持（观点）;persist 坚持（精神）;resist 抵抗 re(back)sist = withstand; consistitute 建立; institute 建立 学院;constitution 体制 = institution 
+  * 词根 sist 也表示站立
+  * insist 坚持（观点）
+  * persist 坚持（精神）
+  * resist 抵抗 re(back)sist = withstand
+  * consistitute 建立
+  * institute 建立 学院
+  * constitution 体制 = institution 
 * status 地位
 * state 说明 国家 情况
 * though 连词 副词 尽管(句子前)、但是（句子中间，逗号中）
