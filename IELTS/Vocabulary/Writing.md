@@ -6,7 +6,7 @@
 
 # 关联词的使用
 
-* 7分的要求：use a range of cohesive devices appropriately although there may be some under-/over-use
+* 7分的要求：use a range of cohesive devices appropriately although there may be some under/over-use
 
 ## 顺承关系
 
