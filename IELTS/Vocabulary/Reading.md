@@ -44,8 +44,8 @@
 
 # 前缀
 
-* 通常表示积极趋势的前缀：con 合；pro 向前；ben 好
-* 通常表示消极趋势的前缀：dis 分；re 往回；de 破坏；mal 坏
+* 通常表示积极趋势的前缀：con 合; pro 向前; ben 好
+* 通常表示消极趋势的前缀：dis 分; re 往回; de 破坏; mal 坏
 * 否定前缀：un in a ob contra non anti with mis
 
 ## ad 表示加强语气
