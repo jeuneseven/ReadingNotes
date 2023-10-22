@@ -46,7 +46,7 @@
 * devise = design 设计 设想 envision = envisage 设想
 * device 设备 a host of = 大量的 = a ... of
 * demise 死亡 消失
-  * (wear 穿；磨损)be worn off = be run off = be consumed = be exhausted = 被耗尽
+  * (wear 穿;磨损)be worn off = be run off = be consumed = be exhausted = 被耗尽
   * disappear = vanish = fade away = 消失
   * perish = extinguish = 灭绝
   * demise = mortality = 死亡 immortal 不朽的
