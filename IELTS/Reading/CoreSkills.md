@@ -25,7 +25,15 @@
 
 常见替换：
 
-<img width="243" alt="image" src="https://github.com/jeuneseven/ReadingNotes/assets/8426758/f95041da-d63c-4a50-9dca-05b5597b87e0">
+imitate = mimic
+emerge = appear
+volunteer = subject
+manufacture = produce 
+where to live = habitat
+easy to reach = accessible
+implement = put into practice
+absence of a sound = silence
+contribute to = be responsible for
 
 ### 例子
 
