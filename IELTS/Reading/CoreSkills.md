@@ -25,15 +25,15 @@
 
 常见替换：
 
-imitate = mimic
-emerge = appear
-volunteer = subject
-manufacture = produce 
-where to live = habitat
-easy to reach = accessible
-implement = put into practice
-absence of a sound = silence
-contribute to = be responsible for
+* imitate = mimic
+* emerge = appear
+* volunteer = subject
+* manufacture = produce 
+* where to live = habitat
+* easy to reach = accessible
+* implement = put into practice
+* absence of a sound = silence
+* contribute to = be responsible for
 
 ### 例子
 
