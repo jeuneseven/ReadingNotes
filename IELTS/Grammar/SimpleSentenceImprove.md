@@ -14,7 +14,8 @@
 #### 作主语
 
 * doing 作主语通常放句首: In daily life, **forgetting** actually has clear advantages.
-* to do 可在句首也可在句尾: In daily life, **to forget** actually has clear advantages. 
+* to do 可在句首也可在句尾:
+    * In daily life, **to forget** actually has clear advantages. 
     * In daily life, it actually has clear advantages **to forget**.
 
 #### 作宾语
