@@ -1,4 +1,4 @@
-[Model View Controller in iOS mobile applications development]()
+[Model View Controller in iOS mobile applications development](https://www.researchgate.net/publication/335151640_Model_View_Controller_in_iOS_mobile_applications_development)
 
 # Strengths:
 1. **Focused Analysis**: Concentrates on the MVC pattern within iOS, a vital area given the pattern's widespread use and Apple’s unique interpretation, offering deep insights into its application and misinterpretations in mobile development.
