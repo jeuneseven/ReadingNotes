@@ -1,1 +1,1 @@
-[Software Architectural Principles in Contemporary Mobile Software: from Conception to Practice](https://www.researchgate.net/publication/303775601_Software_Architectural_Principles_in_Contemporary_Mobile_Software_from_Conception_to_Practice)
+[Software Architectural Principles in Contemporary Mobile Software: from Conception to Practice](https://www.sciencedirect.com/science/article/pii/S0164121216300607)
