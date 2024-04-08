@@ -2,7 +2,7 @@
 
 | Paper Title | Strengths | Weaknesses |
 | --- | --- | --- |
-| Software Architectural Principles in Contemporary Mobile Software: From Conception to Practice |  |  |  |
+| Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern |  |  |  |
 | Model View Controller in iOS mobile applications development |  |  |
 | Pathways for statically mining the Model-View-Controller software architecture on mobile applications |  |  |
 | Review of iOS Architectural Pattern for Testability, Modifiability, and Performance Quality |  |  |
