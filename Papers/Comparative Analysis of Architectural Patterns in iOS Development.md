@@ -3,6 +3,7 @@
 | Paper Title | Strengths | Weaknesses |
 | --- | --- | --- |
 | Abstraction Layered Architecture |  |  |  |
+| Abstraction_Layered_Architecture_improvements_in_maintainability_of_commercial_software_code_bases |  |  |  |
 | Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern |  |  |  |
 | Model View Controller in iOS mobile applications development |  |  |
 | Pathways for statically mining the Model-View-Controller software architecture on mobile applications |  |  |
