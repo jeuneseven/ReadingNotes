@@ -10,3 +10,4 @@
 | Review of iOS Architectural Pattern for Testability, Modifiability, and Performance Quality |  |  |
 | A Comparison of Architectural Patterns for Testability and Performance Quality for iOS Mobile Applications Development |  |  |
 | Model View Controller in iOS mobile applications development |||
+| Analysis and Implementation of Presenter Layer on MVC Architecture iOS Application Development |||
