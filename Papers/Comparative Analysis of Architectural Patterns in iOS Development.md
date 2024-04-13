@@ -11,3 +11,4 @@
 | A Comparison of Architectural Patterns for Testability and Performance Quality for iOS Mobile Applications Development |  |  |
 | Model View Controller in iOS mobile applications development |||
 | Analysis and Implementation of Presenter Layer on MVC Architecture iOS Application Development |||
+| ANALYSIS OF THE IMPLEMENTATION OF MVVM ARCHITECTURE PATTERN ON PERFORMANCE OF IOS MOBILE-BASED APPLICATIONS |||
