@@ -12,3 +12,4 @@
 | Model View Controller in iOS mobile applications development |||
 | Analysis and Implementation of Presenter Layer on MVC Architecture iOS Application Development |||
 | ANALYSIS OF THE IMPLEMENTATION OF MVVM ARCHITECTURE PATTERN ON PERFORMANCE OF IOS MOBILE-BASED APPLICATIONS |||
+| A Comparative Study of Software Architectures in Mobile Applications |||
