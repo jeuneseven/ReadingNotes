@@ -13,3 +13,4 @@
 | Analysis and Implementation of Presenter Layer on MVC Architecture iOS Application Development |||
 | ANALYSIS OF THE IMPLEMENTATION OF MVVM ARCHITECTURE PATTERN ON PERFORMANCE OF IOS MOBILE-BASED APPLICATIONS |||
 | A Comparative Study of Software Architectures in Mobile Applications |||
+| A Quantitative Performance Benchmark of Different Navigation Patterns and User Interface Design Frameworks for an Enhanced iOS Experience |||
