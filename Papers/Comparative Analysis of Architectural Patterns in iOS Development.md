@@ -14,3 +14,4 @@
 | ANALYSIS OF THE IMPLEMENTATION OF MVVM ARCHITECTURE PATTERN ON PERFORMANCE OF IOS MOBILE-BASED APPLICATIONS |||
 | A Comparative Study of Software Architectures in Mobile Applications |||
 | A Quantitative Performance Benchmark of Different Navigation Patterns and User Interface Design Frameworks for an Enhanced iOS Experience |||
+| Quantitative Analysis of Mobile Application User Interface Design |||
