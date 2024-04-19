@@ -17,3 +17,4 @@
 | Quantitative Analysis of Mobile Application User Interface Design |||
 | Ensuring software maintainability at software architecture level using architectural patterns |||
 | Software architectural patterns in practice: an empirical study | ||  
+| Building Maintainable Software Using Abstraction Layering | ||  
