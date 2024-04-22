@@ -19,4 +19,5 @@
 | Software architectural patterns in practice: an empirical study | ||  
 | Building Maintainable Software Using Abstraction Layering | ||  
 | The MVVM Architectural Pattern | ||  
-| Abstraction layered architecture- Writing maintainable embedded code | ||  
+| Abstraction layered architecture- Writing maintainable embedded code | ||
+| An architecture and implement model for Model-View-Presenter pattern | ||
