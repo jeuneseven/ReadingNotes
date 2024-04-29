@@ -21,3 +21,4 @@
 | The MVVM Architectural Pattern | ||  
 | Abstraction layered architecture- Writing maintainable embedded code | ||
 | An architecture and implement model for Model-View-Presenter pattern | ||
+| Applying Model View View-Model and Layered Architecture for Mobile Applications | ||
