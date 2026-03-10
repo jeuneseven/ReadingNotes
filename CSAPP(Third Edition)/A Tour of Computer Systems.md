@@ -125,7 +125,7 @@
 * 每个 I/O 设备，甚至网络都可以看成文件
 * 系统中所有输入输出都是通过使用 Unix I/O 系统函数调用读写文件来实现
 
-# 系统之间利用网络通信
+# 1.8 Systems Communicate with Other Systems Using Networks 
 
 # 重要主题
 
