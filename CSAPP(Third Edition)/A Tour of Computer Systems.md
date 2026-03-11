@@ -1,10 +1,10 @@
-# Info = bit + context
+# 1.1 Infomation = bit + context
 
 * 只由 ASCII 字符构成的文件为文本文件，其他文件为二进制文件
 * 系统中所有信息都是由一串比特表示
 * 区分不同数据对象的唯一方法是我们读到这些数据对象时的上下文
 
-# 程序被其他程序翻译成不同格式
+# 1.2 Programs Are Translated by Other Programs into Different Forms
 
 * 编译系统：预处理器、编译器、汇编器、链接器一起构成
 
