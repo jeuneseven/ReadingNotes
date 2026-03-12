@@ -127,7 +127,7 @@
 
 # 1.8 Systems Communicate with Other Systems Using Networks 
 
-# 重要主题
+# 1.9 Important Themes
 
 ## Amdahl 定律
 
