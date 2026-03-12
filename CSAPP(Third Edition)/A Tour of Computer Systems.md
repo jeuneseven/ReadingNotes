@@ -34,7 +34,7 @@
 * 避免安全漏洞
 
 # 1.4 Processors Read and Interpret Instructions Stored in Memory 
-## 系统的硬件组成
+## 1.4.1 Hardware Organization of a System
 ### 总线
 
 * 贯穿整个系统的一组电子管道，负责携带信息字节负责在各个部件间传递
@@ -68,17 +68,17 @@
 * 指令集架构描述每条机器代码指令的效果
 * 微体系结构描述处理器实际上如何实现
 
-# 高速缓存（cache memory）
+# 1.5 Caches Matter
 
 * 存放处理器近期可能会需要的信息
 * 使用静态随机访问存储器 SRAM 实现
 * 利用高速缓存局部性原理，程序具有访问局部区域里的数据和代码的趋势
 
-# 存储设备形成层次结构
+# 1.6 Storage Devices Form a Hierarchy
 
 * 主要思想是上一层的存储器作为第一层存储器的高速缓存
 
-# 操作系统管理硬件
+# 1.7 The Operating System Manages the Hardware
 
 操作系统两个基本功能：  
 
