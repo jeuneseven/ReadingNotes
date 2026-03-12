@@ -27,13 +27,13 @@
 * 链接器（ld）负责处理预编译目标文件和当前文件的合并
 * 合并后得到可执行目标文件，简称可执行文件，可以被加载到内存中，由系统执行
 
-# 了解编译系统如何工作大有益处
+# 1.3 It Pays to Understand How Compilation Systems Work
 
 * 优化程序性能
 * 理解链接时出现的错误
 * 避免安全漏洞
 
-# 处理器读并解释存储在内存中的指令
+# 1.4 Processors Read and Interpret Instructions Stored in Memory 
 ## 系统的硬件组成
 ### 总线
 
