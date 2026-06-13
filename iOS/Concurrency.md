@@ -7,6 +7,14 @@
 
 > -- Rob Pike
 
+## Understanding threads and queues
+
+
+
+## Main thread and main queue: what’s the difference?
+
+
+
 ## Where is Swift concurrency supported?
 
 - Swift concurrency is supported from iOS 13, macOS 10.15, watchOS 6, tvOS 13, and visionOS 1.0.
