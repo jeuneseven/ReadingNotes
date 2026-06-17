@@ -14,6 +14,21 @@
 	- Your data is stored only in CloudKit or another equivalent service, and you need to be using live data at all times
 	- You need the full range of capabilities offered by Core Data
 
+## SwiftData vs Core Data
+
+- SwiftData builds on top of Core Data, a few major Core Data features are not yet supported for developers working exclusively in SwiftData, including:
+
+1. We don’t have an equivalent of NSCompoundPredicate, for creating complex, multi-step predicates.
+2. We don’t have an equivalent of NSFetchedResultsController, for executing then monitoring queries for changes.
+3. There is no support for derived attributes, so things like an automatic lastUpdated property aren’t possible.
+4. There are no sectioned fetched requests.
+5. SwiftData does not support abstract classes or child contexts.
+6. Or pinning to a specific query generation.
+
+## Should you learn SwiftData, Core Data, or both?
+
+- if you are able to live without the missing features such as NSFetchedResultsController, and you are able to target iOS 17 and later, learning SwiftData is significantly faster and easier – you’ll be building apps in a tenth the time it would take for you to learn Core Data
+
 # Building a complete project
 
 
