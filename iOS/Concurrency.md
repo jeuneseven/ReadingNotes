@@ -23,6 +23,63 @@
 - Swift concurrency is supported from iOS 13, macOS 10.15, watchOS 6, tvOS 13, and visionOS 1.0.
 
 # Async/await
+## What is a synchronous function?
+
+
+
+## What is an asynchronous function?
+
+
+
+## How to create and call an async function?
+
+
+
+## How to call async throwing functions?
+
+
+
+## What calls the first async function?
+
+
+
+## What’s the performance cost of calling an async function?
+
+
+
+## How to create and use async properties?
+
+
+
+## How to call an async function using async let?
+
+
+
+## Sending data safely across actor boundaries
+
+
+
+## What’s the difference between await and async let?
+
+
+
+## Why can’t we call async functions using async var?
+
+
+
+## How to use continuations to convert completion handlers into async functions?
+
+
+
+## How to create continuations that can throw errors?
+
+
+
+## How to store continuations to be resumed later?
+
+
+
+## How to fix the error “async call in a function that does not support concurrency”
 
 
 
