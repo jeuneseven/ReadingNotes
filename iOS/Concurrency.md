@@ -9,7 +9,8 @@
 
 ## Understanding threads and queues
 
-
+- main thread: always exists for the lifetime of the app, all user interface work must take place on main thread, if try to update UI from any other thread in program might find nothing happens, might find app crashes, or pretty much anywhere in between, this rule exists for all apps that run on iOS, macOS, tvOS, and watchOS
+- context switch: swapping threads
 
 ## Main thread and main queue: what’s the difference?
 
