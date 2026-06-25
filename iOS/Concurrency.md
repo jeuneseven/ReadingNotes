@@ -33,7 +33,10 @@
 # Async/await
 ## What is a synchronous function?
 
-
+- By default, all Swift functions are synchronous
+	- A synchronous function is one that executes all its work in a simple, straight line on a single thread
+- stack frame: whenever one function calls another, the system create to store all the data(e.g. local variables) required for that new function
+- new stack frame gets pushed on top of the previous one, eventually the functions finish, and their stack frame is removed and destroyed in a process we call popping, and control goes back to whichever function the code was called from
 
 ## What is an asynchronous function?
 
