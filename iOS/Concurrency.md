@@ -11,6 +11,13 @@
 
 - main thread: always exists for the lifetime of the app, all user interface work must take place on main thread, if try to update UI from any other thread in program might find nothing happens, might find app crashes, or pretty much anywhere in between, this rule exists for all apps that run on iOS, macOS, tvOS, and watchOS
 - context switch: swapping threads
+	- it has a performance cost: the system must stash away all the data the thread was using and remember how far it had progressed in its work, before giving another thread the chance to run
+	- thread explosion: when create many more threads compared to the number of available CPU cores, the cost of context switching grows high
+- queues: we create a queue and add work to it, and the system will remove and execute work from there in the order it was added
+	- serial: remove one piece of work from the front of the queue and complete it before going onto the next piece of work
+	- concurrent: remove and execute multiple pieces of work at a time
+	- Either way work will start in the order it was added to the queue unless we specifically say something has a high or low priority
+- threads are the individual slices of a program that do pieces of work, whereas queues are like pipelines of execution where we can request that work be done at some point
 
 ## Main thread and main queue: what’s the difference?
 
