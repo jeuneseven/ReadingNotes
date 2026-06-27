@@ -42,6 +42,7 @@
 ## What is an asynchronous function?
 
 - async is part of the function’s type
+- await: run this function asynchronously and wait for its result to come back before continuing
 
 ## How to create and call an async function?
 
