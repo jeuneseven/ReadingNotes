@@ -44,6 +44,12 @@
 - async is part of the function’s type
 - await: run this function asynchronously and wait for its result to come back before continuing
 
+1. when an async function is suspended, all the async functions that called it are also suspended; they all wait quietly while the async work happens, then resume later on; for this reason that synchronous functions cannot call async functions directly – they don’t know how to suspend themselves
+2. a function can be suspended as many times as is needed, but it won’t happen without you writing await there – functions won’t suspend themselves by surprise
+3. a function that is suspended does not block the thread it’s running on, and instead it gives up that thread so that Swift can do other work instead
+4. when the function resumes, it might be running on the same thread as before, but it might not; Swift gets to choose, and you shouldn’t make any assumptions here
+5. just because a function is async doesn’t mean it will suspend – the await keyword only marks a potential suspension point
+
 ## How to create and call an async function?
 
 
