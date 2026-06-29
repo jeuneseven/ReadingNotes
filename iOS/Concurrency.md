@@ -52,7 +52,8 @@
 
 ## How to create and call an async function?
 
-
+1. declaring the function itself as being async
+2. calling that function using await
 
 ## How to call async throwing functions?
 
