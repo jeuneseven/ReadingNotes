@@ -55,6 +55,8 @@
 1. declaring the function itself as being async
 2. calling that function using await
 
+- Swift will run each of the await calls in sequence, waiting for the previous one to complete. This is not going to run several things in parallel
+
 ## How to call async throwing functions?
 
 
