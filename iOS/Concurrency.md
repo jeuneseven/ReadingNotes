@@ -59,7 +59,7 @@
 
 ## How to call async throwing functions?
 
-
+- mark the function as being async throws, call the function using try await – the keyword order is flipped
 
 ## What calls the first async function?
 
