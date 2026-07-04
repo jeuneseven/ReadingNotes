@@ -59,7 +59,7 @@
 
 ## How to call async throwing functions?
 
-- mark the function as being async throws, call the function using try await – the keyword order is flipped
+- mark the function as being async throws, call the function using try await – the keyword order is flipped, think of it as unwinding a stack
 	- This order restriction is arbitrary, but it's not harmful, and it eliminates the potential for stylistic debates.
 
 ## What calls the first async function?
