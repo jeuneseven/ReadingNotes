@@ -60,11 +60,16 @@
 ## How to call async throwing functions?
 
 - mark the function as being async throws, call the function using try await – the keyword order is flipped, think of it as unwinding a stack
-	- This order restriction is arbitrary, but it's not harmful, and it eliminates the potential for stylistic debates.
+	- This order restriction is arbitrary, but it's not harmful, and it eliminates the potential for stylistic debates
 
 ## What calls the first async function?
 
+if only async functions can call other async functions, what starts it all – what calls the very first async function?
 
+1. in simple command-line programs using the @main attribute, you can declare your main() method to be async. This means your program will immediately launch into an async function, so you can call other async functions freely
+2. in SwiftUI, the framework itself has various places that can trigger an async function. For example, the refreshable() and task() modifiers can both call async functions freely
+	- When do async work you might end up pushing work away from the main thread where UI updates must happen, but the @State property wrapper has specifically been written to allow us to modify its value on any thread
+3. Swift provides a dedicated Task API that lets us call async functions from a synchronous function
 
 ## What’s the performance cost of calling an async function?
 
