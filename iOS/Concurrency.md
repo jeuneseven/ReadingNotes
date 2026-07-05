@@ -73,7 +73,8 @@ if only async functions can call other async functions, what starts it all – w
 
 ## What’s the performance cost of calling an async function?
 
-
+- synchronous and asynchronous functions use a different calling convention internally, with the asynchronous variant being slightly less efficient
+- Swift cannot tell at compile time whether an await call will suspend or not, and so the same (slightly) more expensive calling convention is used regardless of what actually takes place at runtime
 
 ## How to create and use async properties?
 
