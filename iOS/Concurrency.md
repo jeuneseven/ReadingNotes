@@ -78,10 +78,12 @@ if only async functions can call other async functions, what starts it all – w
 - What happens at runtime depends on whether the call suspends or not:
 	- If a suspension happens, then Swift will pause the function and all its callers, which has a small performance cost. These will then be resumed later, and ultimately whatever performance cost you pay for the suspension is like a rounding error compared to the performance gain provided by async/await even existing
 	- If a suspension does not happen, no pause will take place and your function will continue to run with the same efficiency and timings as a synchronous function
+	- using await will not cause your code to wait for one runloop to go by before continuing
+- if your code doesn’t actually suspend, the only cost to calling an asynchronous function is the slightly more expensive calling convention, and if your code does suspend then any cost is more or less irrelevant because you’ve gained so much extra performance thanks to the suspension happening in the first place
 
 ## How to create and use async properties?
 
-
+- computed properties can be asynchronous: attempting to access them must also use await or similar, and may also need throws if errors can be thrown when computing the property
 
 ## How to call an async function using async let?
 
