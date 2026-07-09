@@ -87,7 +87,7 @@ if only async functions can call other async functions, what starts it all – w
 
 ## How to call an async function using async let?
 
-
+- async let: run several async operations at the same time then wait for their results to come back
 
 ## Sending data safely across actor boundaries
 
