@@ -94,7 +94,7 @@ if only async functions can call other async functions, what starts it all – w
 
 ## Sending data safely across actor boundaries
 
-
+- Swift tries to ensure access to shared data is done safely, partly through types such as actors, and partly through a concept of sendability implemented through the Sendable protocol and the @Sendable attribute
 
 ## What’s the difference between await and async let?
 
