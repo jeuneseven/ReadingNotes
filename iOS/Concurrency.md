@@ -88,6 +88,7 @@ if only async functions can call other async functions, what starts it all – w
 ## How to call an async function using async let?
 
 - async let: run several async operations at the same time then wait for their results to come back
+	- it captures any values it uses, which means you might accidentally try to write code that isn’t safe
 - The Swift compiler will automatically track which async let constants could throw errors and will enforce the use of try when reading their value. It doesn’t matter which form of try you use, so you can use try, try? or try! as appropriate
 - If you never try to read the value of a throwing async let call – i.e., if you’ve started the work but don’t care what it returns – then you don’t need to use try at all, which in turn means the function running the async let code might not need to handle errors at all
 
