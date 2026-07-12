@@ -89,8 +89,11 @@ if only async functions can call other async functions, what starts it all – w
 
 - async let: run several async operations at the same time then wait for their results to come back
 	- it captures any values it uses, which means you might accidentally try to write code that isn’t safe
+	- don’t need to use await before async func because that’s implied by async let
+	- don’t need to use try to execute async func because that gets pushed back to when we actually want to read its return value
 - The Swift compiler will automatically track which async let constants could throw errors and will enforce the use of try when reading their value. It doesn’t matter which form of try you use, so you can use try, try? or try! as appropriate
 - If you never try to read the value of a throwing async let call – i.e., if you’ve started the work but don’t care what it returns – then you don’t need to use try at all, which in turn means the function running the async let code might not need to handle errors at all
+- if you wanted to update your user interface as soon as data arrived back, async let isn’t going to help by itself you should look at the dedicated Task type instead
 
 ## Sending data safely across actor boundaries
 
