@@ -124,9 +124,6 @@ if only async functions can call other async functions, what starts it all – w
 
 
 # Sequences and streams
-
-
-
 ## What’s the difference between Sequence, AsyncSequence, and AsyncStream?
 
 
@@ -152,6 +149,78 @@ if only async functions can call other async functions, what starts it all – w
 
 
 # Tasks and task groups
+
+
+
+## What are tasks and task groups?
+
+
+
+## How to create and run a task?
+
+
+
+## What’s the difference between a task and a detached task?
+
+
+
+## How to make a task sleep?
+
+
+
+## How to get a Result from a task?
+
+
+
+## How to control the priority of a task?
+
+
+
+## Understanding how priority escalation works?
+
+
+
+## How to cancel a Task?
+
+
+
+## How to voluntarily suspend a task?
+
+
+
+## How to create a task group and add tasks to it?
+
+
+
+## How to cancel a task group?
+
+
+
+## How to handle different result types in a task group?
+
+
+
+## How to discard results in a task group?
+
+
+
+## What’s the difference between async let, tasks, and task groups?
+
+
+
+## How to make async command-line tools and scripts?
+
+
+
+## How to create and use task local values?
+
+
+
+## How to run tasks using SwiftUI’s task() modifier?
+
+
+
+## Is it efficient to create many tasks?
 
 
 
