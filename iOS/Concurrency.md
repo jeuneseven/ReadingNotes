@@ -99,6 +99,9 @@ if only async functions can call other async functions, what starts it all – w
 
 - Swift tries to ensure access to shared data is done safely, partly through types such as actors, and partly through a concept of sendability implemented through the Sendable protocol and the @Sendable attribute
 
+1. making the class conform to the Sendable protocol: tells Swift this class can be sent between tasks safely, which Swift validates for us – it will make sure all the properties are also Sendable, otherwise it will refuse to build
+2. declare the class as being final – saying that it can't be subclassed: Swift can't guarantee this class is definitely sendable unless it can't be subclassed, just in case we make a subclass that adds a property that isn't sendable, at which point things get rather messy
+
 ## What’s the difference between await and async let?
 
 
