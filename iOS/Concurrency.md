@@ -231,6 +231,54 @@ if only async functions can call other async functions, what starts it all – w
 
 
 
+## What is an actor and why does Swift have them?
+
+
+
+## How to create and use an actor in Swift?
+
+
+
+## Understanding actor initialization
+
+
+
+## How to make function parameters isolated?
+
+
+
+## How to make parts of an actor nonisolated?
+
+
+
+## How to use @MainActor to run code on the main queue?
+
+
+
+## Who decides which actor code runs on?
+
+
+
+## Understanding how global actor inference works
+
+
+
+## What is actor hopping and how can it cause problems?
+
+
+
+## What is actor reentrancy and how can it cause problems?
+
+
+
+## What’s the difference between actors, classes, and structs?
+
+
+
+## Important: Do not use an actor for your SwiftUI data models
+
+
+
 # Testing
 ## Introduction to testing Swift concurrency
 
