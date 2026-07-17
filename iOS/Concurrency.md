@@ -313,3 +313,4 @@ if only async functions can call other async functions, what starts it all – w
 
 
 # Solutions
+## How to download JSON from the internet and decode it into any Codable type
