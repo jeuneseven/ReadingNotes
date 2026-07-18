@@ -152,9 +152,6 @@ if only async functions can call other async functions, what starts it all – w
 
 
 # Tasks and task groups
-
-
-
 ## What are tasks and task groups?
 
 
@@ -228,9 +225,6 @@ if only async functions can call other async functions, what starts it all – w
 
 
 # Actors 
-
-
-
 ## What is an actor and why does Swift have them?
 
 
@@ -314,3 +308,4 @@ if only async functions can call other async functions, what starts it all – w
 
 # Solutions
 ## How to download JSON from the internet and decode it into any Codable type
+
