@@ -108,7 +108,7 @@ if only async functions can call other async functions, what starts it all – w
 
 ## What’s the difference between await and async let?
 
-
+- use await when it’s important you have a value before continuing, and async let when your work can continue without the value for the time being – you can always use await later on when it’s actually needed
 
 ## Why can’t we call async functions using async var?
 
