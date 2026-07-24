@@ -162,7 +162,8 @@ mark the class as being safe to send across different tasks needs 2 steps:
 # Tasks and task groups
 ## What are tasks and task groups?
 
-
+- if you want one or two independent pieces of work to start, then Task is the right choice
+- If you want to split up one job into several concurrent operations then TaskGroup is a better fit
 
 ## How to create and run a task?
 
