@@ -98,8 +98,8 @@ if only async functions can call other async functions, what starts it all – w
 ## Sending data safely across actor boundaries
 
 - Swift tries to ensure access to shared data is done safely, partly through types such as actors, and partly through a concept of sendability implemented through the Sendable protocol and the @Sendable attribute
-	- error: "Non-sendable type 'YourType' returned by implicitly asynchronous call to nonisolated function cannot cross actor boundary."
-	- "you're making an object here, and you want to use it somewhere else, but that isn't safe."
+	- error: **"Non-sendable type 'YourType' returned by implicitly asynchronous call to nonisolated function cannot cross actor boundary"** means: 
+	- **"you're making an object here, and you want to use it somewhere else, but that isn't safe"**
 
 mark the class as being safe to send across different tasks needs 2 steps:
 
