@@ -104,7 +104,7 @@ if only async functions can call other async functions, what starts it all – w
 mark the class as being safe to send across different tasks needs 2 steps:
 
 1. making the class conform to the Sendable protocol: tells Swift this class can be sent between tasks safely, which Swift validates for us – it will make sure all the properties are also Sendable, otherwise it will refuse to build
-2. declare the class as being final – saying that it can't be subclassed: Swift can't guarantee this class is definitely sendable unless it can't be subclassed, just in case we make a subclass that adds a property that isn't sendable, at which point things get rather messy
+2. declare the class as being final – saying that it can't be subclassed: Swift can't guarantee this class is definitely sendable unless it can't be subclassed, just in case we make a subclass that adds a property that isn't sendable
 
 - Swift automatically considers all actors as conforming to Sendable because they automatically handle synchronization correctly. It will also automatically consider structs and enums as being Sendable, as long as they only contain values that are also Sendable
 - functions: Swift needs to make sure the function or the type that owns the function can also be sent correctly
