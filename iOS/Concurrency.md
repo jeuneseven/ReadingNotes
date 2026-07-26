@@ -107,12 +107,16 @@ mark the class as being safe to send across different tasks needs 2 steps:
 2. declare the class as being final – saying that it can't be subclassed: Swift can't guarantee this class is definitely sendable unless it can't be subclassed, just in case we make a subclass that adds a property that isn't sendable
 
 - Swift automatically considers all actors as conforming to Sendable because they automatically handle synchronization correctly. It will also automatically consider structs and enums as being Sendable, as long as they only contain values that are also Sendable
-- functions: Swift needs to make sure the function or the type that owns the function can also be sent correctly
-- the Task is Sendable if its work is also Sendable
+- functions: Swift needs to make sure the function or the type that owns the function can also be sent correctly, use **@escaping @Sendable**
+- Task is Sendable if its work is also Sendable
 
 ## What’s the difference between await and async let?
 
-- use await when it’s important you have a value before continuing, and async let when your work can continue without the value for the time being – you can always use await later on when it’s actually needed
+await  | async let
+------------- | -------------
+waits for the work to complete so we can read its result  | do not wait
+use await when it’s important you have a value before continuing | use async let when your work can continue without the value for the time being, you can always use await later on when it’s actually needed
+
 
 ## Why can’t we call async functions using async var?
 
