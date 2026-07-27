@@ -117,10 +117,18 @@ await  | async let
 waits for the work to complete so we can read its result  | do not wait
 use await when it’s important you have a value before continuing | use async let when your work can continue without the value for the time being, you can always use await later on when it’s actually needed
 
-
 ## Why can’t we call async functions using async var?
 
-
+- `async let` immediately starts a child task and binds the variable to the result of that specific task.
+- If Swift allowed `async var`, reassigning it would create several ambiguities:
+  - Should the original task be cancelled?
+  - Should Swift wait for the original task to finish?
+  - Should both tasks continue running concurrently?
+  - Should the result of the original task be discarded?
+  - How should errors from the original task be handled?
+- `await` only waits for and retrieves the result of an asynchronous operation. It does not define what should happen to an existing task when the variable is reassigned.
+- Swift therefore supports only `async let`, which cannot be reassigned. This ensures that each asynchronous binding always corresponds to one specific child task.
+- If we need to cancel, replace, or otherwise manage an asynchronous task, we should create and store a `Task` explicitly.
 
 ## How to use continuations to convert completion handlers into async functions?
 
