@@ -132,7 +132,8 @@ use await when it’s important you have a value before continuing | use async l
 
 ## How to use continuations to convert completion handlers into async functions?
 
-- continuations: allowing us to create a bridge between older functions with completion handlers and newer async code
+- continuations allowing us to create a bridge between older functions with completion handlers and newer async code
+- continuations are special objects we pass into the completion handlers as captured values. Once the completion handler fires, we can either return the finished value, throw an error, or send back a Result that can be handled elsewhere. There's no time limit on how long continuations can take to complete, but they must complete at some point
 
 ## How to create continuations that can throw errors?
 
