@@ -132,7 +132,7 @@ use await when it’s important you have a value before continuing | use async l
 
 ## How to use continuations to convert completion handlers into async functions?
 
-
+- continuations: allowing us to create a bridge between older functions with completion handlers and newer async code
 
 ## How to create continuations that can throw errors?
 
