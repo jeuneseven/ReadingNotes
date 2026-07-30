@@ -134,18 +134,84 @@ use await when it’s important you have a value before continuing | use async l
 
 - continuations allowing us to create a bridge between older functions with completion handlers and newer async code
 - continuations are special objects we pass into the completion handlers as captured values. Once the completion handler fires, we can either return the finished value, throw an error, or send back a Result that can be handled elsewhere. There's no time limit on how long continuations can take to complete, but they must complete at some point
+- If you want a continuation that sends back nothing, you can just use continuation.resume() with no parameters
 
 ## How to create continuations that can throw errors?
 
+- Use `withCheckedThrowingContinuation()` to convert a completion-handler API that can fail into an `async throws` function.
+- Its unsafe equivalent is `withUnsafeThrowingContinuation()`, but the checked version should normally be preferred because it can detect some incorrect uses during development.
+- A throwing continuation can be resumed in three ways:
+  - Return a successful value:
 
+    ```swift
+    continuation.resume(returning: value)
+    ```
+  - Throw an error:
+
+    ```swift
+    continuation.resume(throwing: error)
+    ```
+  - Pass a `Result` value directly:
+
+    ```swift
+    continuation.resume(with: result)
+    ```
+- For example, a completion-handler API using `Result` can be converted like this:
+  ```swift
+  func fetchData() async throws -> Data {
+      try await withCheckedThrowingContinuation { continuation in
+          legacyFetchData { result in
+              continuation.resume(with: result)
+          }
+      }
+  }
+  ```
+- The caller can then use normal `async/await` error handling:
+
+  ```swift
+  do {
+      let data = try await fetchData()
+  } catch {
+      print(error)
+  }
+  ```
+- Every execution path must resume the continuation exactly once.
+- Failing to resume it leaves the awaiting task suspended indefinitely.
+- Resuming it more than once is a programming error.
+- In practice, this API is mainly used to bridge older completion-handler APIs that can fail into Swift’s `async/await` model.
+- If an API already provides a native `async throws` version, use that instead of wrapping it with a continuation.
 
 ## How to store continuations to be resumed later?
 
+- A continuation can be stored in a property and resumed later.
+- This is useful for delegate-based APIs, where the result arrives in a separate callback.
 
+```swift
+private var continuation: CheckedContinuation<Result, Never>?
+
+func performOperation() async -> Result {
+    await withCheckedContinuation { continuation in
+        self.continuation = continuation
+        startLegacyOperation()
+    }
+}
+
+func operationDidFinish(with result: Result) {
+    continuation?.resume(returning: result)
+    continuation = nil
+}
+```
+
+- The async task remains suspended until the stored continuation is resumed.
+- Set the continuation to `nil` after resuming it to help prevent accidental reuse.
+- Every possible outcome, including failure or cancellation, must resume the continuation exactly once.
+- This is mainly needed when converting delegate-based or event-driven APIs to `async/await`.
 
 ## How to fix the error “async call in a function that does not support concurrency”
 
-
+- occurs when you’ve tried to call an async function from a synchronous function, which is not allowed in Swift – asynchronous functions must be able to suspend themselves and their callers, and synchronous functions simply don’t know how to do that.
+- If asynchronous work needs to be waited for, mark current code as also being async so that you can use await as normal.
+- create a dedicated Task to solve async infection problem.
 
 # Sequences and streams
 ## What’s the difference between Sequence, AsyncSequence, and AsyncStream?
