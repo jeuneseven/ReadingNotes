@@ -29,6 +29,22 @@
 
 - if you are able to live without the missing features such as NSFetchedResultsController, and you are able to target iOS 17 and later, learning SwiftData is significantly faster and easier – you’ll be building apps in a tenth the time it would take for you to learn Core Data
 
+## Frequently asked questions about SwiftData
+
+
+
+## How to follow this quick start guide
+
+
+
+## Migrating from Core Data to SwiftData
+
+
+
+## Dedication
+
+
+
 # Building a complete project
 
 
