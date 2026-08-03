@@ -19,7 +19,15 @@
 # Simple data
 ## How to create variables and constants
 
+```
+var greeting = "Hello, playground"
 
+```
+
+```
+let character = "Daphne"
+
+```
 
 ## How to create strings
 
