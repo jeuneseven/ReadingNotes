@@ -24,10 +24,21 @@ var greeting = "Hello, playground"
 
 ```
 
+- var : create a new variable
+- greeting : variable name
+- = : assigns a value to our variable. You don’t need to have those spaces on either side of the equals sign if you don’t want to, but it’s the most common style
+- “Hello, playground” : the value we’re assigning, written inside double quotes, so that Swift can see where the text starts and where it ends
+- doesn’t need a semicolon at the end of the line. Swift does allow semicolons, but they are very rare, you’ll only ever need them if you want to write two pieces of code on the same line for some reason
+- When you make a variable, you can change it over time, you can change variables as much as you need to, and the old value is discarded each time
+
 ```
 let character = "Daphne"
 
 ```
+- use let we make a constant, which is a value that can’t change. Swift literally won’t let us, and will show a big error if we try
+- let: comes from the mathematics world, where they say things like “let x be equal to 5.”
+- camel case: the second and subsequent words in a name start with a little bump for the capital letter
+- prefer to use constants rather than variables – not only does it give Swift the chance to optimize your code a little better, but it also allows Swift to make sure you never change a constant’s value by accident
 
 ## How to create strings
 
