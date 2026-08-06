@@ -95,3 +95,40 @@ let character = "Daphne"
 
 ## Checkpoint 2
 
+
+
+# Conditions and loops
+## How to check a condition is true or false
+
+
+
+## How to check multiple conditions
+
+
+
+## How to use switch statements to check multiple conditions
+
+
+
+## How to use the ternary conditional operator for quick tests
+
+
+
+## How to use a for loop to repeat work
+
+
+
+## How to use a while loop to repeat work
+
+
+
+## How to skip loop items with break and continue
+
+
+
+## Summary: Conditions and loops
+
+
+
+## Checkpoint 3
+
