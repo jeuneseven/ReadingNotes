@@ -66,3 +66,32 @@ let character = "Daphne"
 
 ## Checkpoint 1
 
+
+
+# Complex data
+## How to store ordered data in arrays
+
+
+
+## How to store and find data in dictionaries
+
+
+
+## How to use sets for fast data lookup
+
+
+
+## How to create and use enums
+
+
+
+## How to use type annotations
+
+
+
+## Summary: Complex data
+
+
+
+## Checkpoint 2
+
