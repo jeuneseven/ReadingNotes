@@ -42,7 +42,12 @@ let character = "Daphne"
 
 ## How to create strings
 
+- start and end with double quotes
+- use other double quotes inside your string, as long as you’re careful to put a backslash before them so that Swift understands they are inside the string rather than ending the string
 
+```
+let quote = "Then he tapped a sign saying \"Believe\" and walked away."
+```
 
 ## How to store whole numbers
 
