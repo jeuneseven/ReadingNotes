@@ -84,7 +84,13 @@ print(filename.hasSuffix(".jpg"))
 
 ## How to store whole numbers
 
+- integers、Int: originally a Latin word meaning “whole”
+- you can use underscores, _, to break up numbers however you want
 
+```
+let reallyBig = 1_00__00___00____00
+```
+- compound assignment operators: *=、-=、/=、+=
 
 ## How to store decimal numbers
 
