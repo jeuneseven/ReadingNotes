@@ -49,6 +49,39 @@ let character = "Daphne"
 let quote = "Then he tapped a sign saying \"Believe\" and walked away."
 ```
 
+- use three quotes show multi-line strings: the triple quotes at the start and end are on their own line, with your string in between
+
+```
+let movie = """
+A day in
+the life of an
+Apple engineer
+"""
+```
+
+- you can read the length of a string by writing .count after the name of the variable or constant
+
+```
+print(actor.count)
+```
+
+- uppercased(): sends back the same string except every one of its letter is uppercased
+	- if you’re asking Swift to read some data you don’t need the parentheses, but if you’re asking Swift to do some work you do
+
+```
+print(result.uppercased())
+```
+
+- hasPrefix()/hasSuffix(): lets us know whether a string starts with some letters of our choosing; checks whether a string ends with some text
+
+```
+print(movie.hasPrefix("A day"))
+
+print(filename.hasSuffix(".jpg"))
+```
+
+- Strings are case-sensitive in Swift, which means using filename.hasSuffix(".JPG") will return false because the letters in the string are lowercase
+
 ## How to store whole numbers
 
 
