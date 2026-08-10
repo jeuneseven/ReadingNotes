@@ -176,3 +176,36 @@ let reallyBig = 1_00__00___00____00
 
 ## Checkpoint 3
 
+
+# Functions
+## How to reuse code with functions
+
+
+
+## How to return values from functions
+
+
+
+## How to return multiple values from functions
+
+
+
+## How to customize parameter labels
+
+
+
+## How to provide default values for parameters
+
+
+
+## How to handle errors in functions
+
+
+
+## Summary: Functions
+
+
+
+## Checkpoint 4
+
+
