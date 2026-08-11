@@ -209,3 +209,23 @@ let reallyBig = 1_00__00___00____00
 ## Checkpoint 4
 
 
+# Closures
+## How to create and use closures
+
+
+
+## How to use trailing closures and shorthand syntax
+
+
+
+## How to accept functions as parameters
+
+
+
+## Summary: Closures
+
+
+
+## Checkpoint 5
+
+
