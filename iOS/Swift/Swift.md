@@ -229,3 +229,36 @@ let reallyBig = 1_00__00___00____00
 ## Checkpoint 5
 
 
+
+# Structs
+## How to create your own structs
+
+
+
+## How to compute property values dynamically
+
+
+
+## How to take action when a property changes
+
+
+
+## How to create custom initializers
+
+
+
+## How to limit access to internal data using access control
+
+
+
+## Static properties and methods
+
+
+
+## Summary: Structs
+
+
+
+## Checkpoint 6
+
+
