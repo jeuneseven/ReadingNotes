@@ -262,3 +262,35 @@ let reallyBig = 1_00__00___00____00
 ## Checkpoint 6
 
 
+# Classes
+## How to create your own classes
+
+
+
+## How to make one class inherit from another
+
+
+
+## How to add initializers for classes
+
+
+
+## How to copy classes
+
+
+
+## How to create a deinitializer for a class
+
+
+
+## How to work with variables inside classes
+
+
+
+## Summary: Classes
+
+
+
+## Checkpoint 7
+
+
