@@ -94,7 +94,21 @@ let reallyBig = 1_00__00___00____00
 
 ## How to store decimal numbers
 
+- Double: double-precision floating-point number, Swift allocates twice the amount of storage as some older languages would do, meaning a Double can store absolutely massive numbers.
+- Swift considers decimals to be a wholly different type of data to integers, which means you can’t mix them together(type safety). After all, integers are always 100% accurate, whereas decimals are not, so Swift won’t let you put the two of them together unless you specifically ask for it to happen.
 
+```
+let a = 1
+let b = 2.0
+let c = a + b // error
+
+let c = a + Int(b) ✅
+let c = Double(a) + b ✅
+```
+- Swift decides whether you wanted to create a Double or an Int based on the number you provide – if there’s a dot in there, you have a Double, otherwise it’s an Int. even if the numbers after the dot are 0.
+- decimal numbers have the same range of operators and compound assignment operators as integers
+- Swift lets us use regular Double numbers everywhere a CGFloat is expected, so although you will see CGFloat appear from time to time you can just ignore it.
+- the reason floating-point numbers are complex is because computers are trying to use binary to store complicated numbers.
 
 ## How to store truth with Booleans
 
