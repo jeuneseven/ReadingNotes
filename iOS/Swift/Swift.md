@@ -308,3 +308,31 @@ let c = Double(a) + b ✅
 ## Checkpoint 7
 
 
+# Protocols and extensions
+## How to create and use protocols
+
+
+
+## How to use opaque return types
+
+
+
+## How to create and use extensions
+
+
+
+## How to create and use protocol extensions
+
+
+
+## How to get the most from protocol extensions
+
+
+
+## Summary: Protocols and extensions
+
+
+
+## Checkpoint 8
+
+
