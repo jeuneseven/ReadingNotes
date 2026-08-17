@@ -336,3 +336,36 @@ let c = Double(a) + b ✅
 ## Checkpoint 8
 
 
+
+# Optionals
+## How to handle missing data with optionals
+
+
+
+## How to unwrap optionals with guard
+
+
+
+## How to unwrap optionals with nil coalescing
+
+
+
+## How to handle multiple optionals using optional chaining
+
+
+
+## How to handle function failure with optionals
+
+
+
+## Summary: Optionals
+
+
+
+## Checkpoint 9
+
+
+
+# Wrap up
+## Where now?
+
