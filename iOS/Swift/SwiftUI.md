@@ -1,10 +1,6 @@
 [SwiftUI](https://www.hackingwithswift.com/quick-start/swiftui)
 
 # Introduction
-## A brief explanation of the basics of SwiftUI
-
-
-
 ## Don’t panic!
 
 
