@@ -112,7 +112,9 @@ let c = Double(a) + b ✅
 
 ## How to store truth with Booleans
 
-
+- Booleans don’t have arithmetic operators
+- Booleans have one special operator, !, which means “not”, this flips a Boolean’s value from true to false, or false to true
+- Booleans do have a little extra functionality that can be useful. In particular, if you call toggle() on a Boolean it will flip a true value to false, and a false value to true
 
 ## How to join strings together
 
