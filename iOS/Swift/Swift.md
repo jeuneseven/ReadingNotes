@@ -118,7 +118,48 @@ let c = Double(a) + b ✅
 
 ## How to join strings together
 
+two ways to combine strings together: 
 
+- joining them using +
+
+```
+let firstPart = "Hello, "
+let secondPart = "world!"
+let greeting = firstPart + secondPart
+```
+
+- string interpolation: place variables of any type directly inside strings, it lets us efficiently create strings from other strings, but also from integers, decimal numbers, and more
+
+```
+let name = "Taylor"
+let age = 26
+let message = "Hello, my name is \(name) and I'm \(age) years old."
+print(message)
+```
+
+- don't use + join lots of strings, as it wasteful
+
+```
+let luggageCode = "1" + "2" + "3" + "4" + "5"
+```
+- Swift doesn’t let us add integers to strings
+
+```
+let number = 11
+let missionMessage = "Apollo " + number + " landed on the moon."
+```
+- you can:
+
+```
+let number = 11
+let missionMessage = "Apollo " + String(number) + " landed on the moon."
+```
+
+- You can put calculations inside string interpolation if you want to
+
+```
+print("5 x 5 is \(5 * 5)")
+```
 
 ## Summary: Simple data
 
