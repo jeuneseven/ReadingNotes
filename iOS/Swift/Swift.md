@@ -175,7 +175,7 @@ print("5 x 5 is \(5 * 5)")
 
 ## Checkpoint 1
 
-
+[Checkpoint 1](https://github.com/jeuneseven/iOS/blob/master/Swift/MyPlayground.playground/Pages/Page01.xcplaygroundpage/Contents.swift)
 
 # Complex data
 ## How to store ordered data in arrays
@@ -204,7 +204,7 @@ print("5 x 5 is \(5 * 5)")
 
 ## Checkpoint 2
 
-
+[Checkpoint 2](https://github.com/jeuneseven/iOS/blob/master/Swift/MyPlayground.playground/Pages/Page02.xcplaygroundpage/Contents.swift)
 
 # Conditions and loops
 ## How to check a condition is true or false
@@ -241,6 +241,7 @@ print("5 x 5 is \(5 * 5)")
 
 ## Checkpoint 3
 
+[Checkpoint 3](https://github.com/jeuneseven/iOS/blob/master/Swift/MyPlayground.playground/Pages/Page03.xcplaygroundpage/Contents.swift)
 
 # Functions
 ## How to reuse code with functions
@@ -273,6 +274,7 @@ print("5 x 5 is \(5 * 5)")
 
 ## Checkpoint 4
 
+[Checkpoint 4](https://github.com/jeuneseven/iOS/blob/master/Swift/MyPlayground.playground/Pages/Page04.xcplaygroundpage/Contents.swift)
 
 # Closures
 ## How to create and use closures
@@ -293,7 +295,7 @@ print("5 x 5 is \(5 * 5)")
 
 ## Checkpoint 5
 
-
+[Checkpoint 5](https://github.com/jeuneseven/iOS/blob/master/Swift/MyPlayground.playground/Pages/Page05.xcplaygroundpage/Contents.swift)
 
 # Structs
 ## How to create your own structs
@@ -326,6 +328,7 @@ print("5 x 5 is \(5 * 5)")
 
 ## Checkpoint 6
 
+[Checkpoint 6](https://github.com/jeuneseven/iOS/blob/master/Swift/MyPlayground.playground/Pages/Page06.xcplaygroundpage/Contents.swift)
 
 # Classes
 ## How to create your own classes
@@ -358,6 +361,7 @@ print("5 x 5 is \(5 * 5)")
 
 ## Checkpoint 7
 
+[Checkpoint 7](https://github.com/jeuneseven/iOS/blob/master/Swift/MyPlayground.playground/Pages/Page07.xcplaygroundpage/Contents.swift)
 
 # Protocols and extensions
 ## How to create and use protocols
@@ -386,7 +390,7 @@ print("5 x 5 is \(5 * 5)")
 
 ## Checkpoint 8
 
-
+[Checkpoint 8](https://github.com/jeuneseven/iOS/blob/master/Swift/MyPlayground.playground/Pages/Page08.xcplaygroundpage/Contents.swift)
 
 # Optionals
 ## How to handle missing data with optionals
@@ -415,7 +419,7 @@ print("5 x 5 is \(5 * 5)")
 
 ## Checkpoint 9
 
-
+[Checkpoint 9](https://github.com/jeuneseven/iOS/blob/master/Swift/MyPlayground.playground/Pages/Page09.xcplaygroundpage/Contents.swift)
 
 # Wrap up
 ## Where now?
