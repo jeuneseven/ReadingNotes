@@ -12,3 +12,32 @@
 - SwiftUI: a set of tools that let us describe and control user interfaces 
 - Building an app is the process of writing Swift code to control SwiftUI
 
+# Simple types
+## Why does Swift have variables?
+
+
+
+## Why is Swift a type-safe language?
+
+
+
+## Why does Swift need multi-line strings?
+
+
+
+## Why does Swift need both Doubles and Integers?
+
+
+
+## Why does Swift have string interpolation?
+
+
+
+## Why does Swift have constants as well as variables?
+
+
+
+## Why does Swift have type annotations?
+
+
+
