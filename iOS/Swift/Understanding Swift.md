@@ -41,3 +41,44 @@
 
 
 
+# Complex types
+## Why does Swift have arrays?
+
+
+
+## Why are sets different from arrays in Swift?
+
+
+
+## How are tuples different from arrays in Swift?
+
+
+
+## When should you use an array, a set, or a tuple in Swift?
+
+
+
+## Why does Swift have dictionaries as well as arrays?
+
+
+
+## Why does Swift have default values for dictionaries?
+
+
+
+## Why would you want to create an empty collection?
+
+
+
+## Why does Swift need enums?
+
+
+
+## Why would you want to associate a value with an enum case?
+
+
+
+## Why do Swift’s enums have raw values?
+
+
+
