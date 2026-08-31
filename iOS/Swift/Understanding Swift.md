@@ -82,3 +82,44 @@
 
 
 
+# Operators and conditions
+## Why can’t Swift add a Double to an Int?
+
+
+
+## Why does Swift have a dedicated division remainder operator?
+
+
+
+## Why does Swift need operator overloading?
+
+
+
+## Why does Swift have compound assignment operators?
+
+
+
+## How does Swift let us compare many types of data?
+
+
+
+## What’s the difference between if and else if?
+
+
+
+## How to check multiple conditions
+
+
+
+## When should you use the ternary operator in Swift?
+
+
+
+## When should you use switch statements rather than if?
+
+
+
+## Why does Swift have two range operators?
+
+
+
