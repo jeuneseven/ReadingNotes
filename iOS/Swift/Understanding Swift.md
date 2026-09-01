@@ -123,3 +123,32 @@
 
 
 
+# Looping
+## Why does Swift use underscores with loops?
+
+
+
+## When should you use a while loop?
+
+
+
+## When should you use a repeat loop?
+
+
+
+## Why would you want to exit a loop?
+
+
+
+## Why does Swift have labeled statements?
+
+
+
+## When to use break and when to use continue
+
+
+
+## Why would you want to make an infinite loop?
+
+
+
