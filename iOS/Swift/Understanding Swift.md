@@ -152,3 +152,47 @@
 
 
 
+# Functions
+## What code should be put in a function?
+
+
+
+## How many parameters should a function accept?
+
+
+
+## When is the return keyword not needed in a Swift function?
+
+
+
+## How can you return two or more values from a function?
+
+
+
+## Why does Swift use parameter labels?
+
+
+
+## When should you omit a parameter label?
+
+
+
+## When to use default parameters for functions
+
+
+
+## When to use variadic functions
+
+
+
+## When should you write throwing functions?
+
+
+
+## Why does Swift make us use try before every throwing function?
+
+
+
+## When should you use inout parameters?
+
+
