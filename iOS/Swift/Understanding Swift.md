@@ -196,3 +196,48 @@
 ## When should you use inout parameters?
 
 
+
+# Closures
+## What the heck are closures and why does Swift love them so much?
+
+
+
+## Why are Swift’s closure parameters inside the braces?
+
+
+
+## How do you return a value from a closure that takes no parameters?
+
+
+
+## Why would you want to use closures as parameters?
+
+
+
+## Why does Swift have trailing closure syntax?
+
+
+
+## When would closures with parameters be used as parameters?
+
+
+
+## When would you use closures with return values as parameters to a function?
+
+
+
+## When should you use shorthand parameter names?
+
+
+
+## How many parameters can a closure take?
+
+
+
+## Returning closures from functions
+
+
+
+## Why do Swift’s closures capture values?
+
+
