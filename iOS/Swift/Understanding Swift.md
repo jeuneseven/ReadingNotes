@@ -241,3 +241,57 @@
 ## Why do Swift’s closures capture values?
 
 
+
+# Structs
+## What’s the difference between a struct and a tuple?
+
+
+
+## When should you use a computed property or a stored property?
+
+
+
+## When should you use property observers?
+
+
+
+## When should you use willSet rather than didSet?
+
+
+
+## What’s the difference between a function and a method?
+
+
+
+## Why do we need to mark some methods as mutating?
+
+
+
+## Why are strings structs in Swift?
+
+
+
+## Why do strings behave differently from arrays in Swift?
+
+
+
+## How do Swift’s memberwise initializers work?
+
+
+
+## When would you use self in a method?
+
+
+
+## When should properties be lazy?
+
+
+
+## What’s the point of static properties and methods in Swift?
+
+
+
+## What’s the point of access control?
+
+
+
