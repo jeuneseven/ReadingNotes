@@ -20,11 +20,12 @@
 
 ## Why is Swift a type-safe language?
 
-
+- When you create a variable Swift can figure out what type the variable is based on what kind of data you assign to it, and from then on that variable will always have that one specific type
+- as programs grow in size and complexity, it becomes impossible to keep the types of your variables in your head at all times, so we’re effectively shifting that work on to Swift instead
 
 ## Why does Swift need multi-line strings?
 
-
+- if you use triple quotes you can write your strings across as many lines as you need, which means the text remains easy to read in your code
 
 ## Why does Swift need both Doubles and Integers?
 
