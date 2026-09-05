@@ -15,7 +15,8 @@
 # Simple types
 ## Why does Swift have variables?
 
-
+- allow us to store temporary information in our program, form a key part of almost every Swift program
+- Once you create a variable using var, you can change it as often as you want without using var again
 
 ## Why is Swift a type-safe language?
 
