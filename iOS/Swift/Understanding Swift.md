@@ -29,19 +29,25 @@
 
 ## Why does Swift need both Doubles and Integers?
 
-
+- When creating a numeric variable, Swift decides whether to consider it an integer or a double based on whether you include a decimal point
+- Swift is playing it safe: we can both see that 1 plus 1.0 will be 2, but double is a variable so it could be modified to be 1.1 or 3.5 or something else. How can Swift be sure it’s safe to add an integer to a double, how can it be sure you won’t lose the 0.1 or 0.5?
 
 ## Why does Swift have string interpolation?
 
+- Swift gives us string interpolation as a way of injecting custom data into strings at runtime: it replaces one or more parts of a string with data provided by us
+- Swift is capable of placing any kind of data inside string interpolation
 
+[Super-powered string interpolation in Swift 5.0](https://www.hackingwithswift.com/articles/178/super-powered-string-interpolation-in-swift-5-0)
 
 ## Why does Swift have constants as well as variables?
 
-
+- Swift recommend use constants if you created a variable then never changed its value
+- The reason for this is about avoiding problems: any variable you create can be changed by you whenever you want and as often as you want, so you lose some control
+- Constants don’t let us change values once they are set, so it’s a bit like a contract with Swift: you’re saying “this value matters, don’t let me change it no matter what I do.”
 
 ## Why does Swift have type annotations?
 
-
+- 
 
 # Complex types
 ## Why does Swift have arrays?
