@@ -47,7 +47,9 @@
 
 ## Why does Swift have type annotations?
 
-- 
+- Swift can’t figure out what type should be used
+- You want Swift to use a different type from its default
+- You don’t want to assign a value just yet
 
 # Complex types
 ## Why does Swift have arrays?
