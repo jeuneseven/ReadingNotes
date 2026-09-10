@@ -305,3 +305,31 @@
 
 
 
+# Classes
+## Why does Swift have both classes and structs?
+
+
+
+## Why don’t Swift classes have a memberwise initializer?
+
+
+
+## When would you want to override a method?
+
+
+
+## Which classes should be declared as final?
+
+
+
+## Why do copies of a class share their data?
+
+
+
+## Why do classes have deinitializers and structs don’t?
+
+
+
+## Why can variable properties in constant classes be changed?
+
+
