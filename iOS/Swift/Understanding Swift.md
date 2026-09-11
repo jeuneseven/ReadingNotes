@@ -355,3 +355,43 @@
 
 
 
+# Optionals
+## Why does Swift have optionals?
+
+
+
+## Why does Swift make us unwrap optionals?
+
+
+
+## When to use guard let rather than if let
+
+
+
+## When should you force unwrap optionals in Swift?
+
+
+
+## Why does Swift need both implicitly unwrapped optionals and regular optionals?
+
+
+
+## When should you use nil coalescing in Swift?
+
+
+
+## Why is optional chaining so important?
+
+
+
+## When should you use optional try?
+
+
+
+## Why would you want a failable initializer?
+
+
+
+## When is type casting useful in Swift?
+
+
