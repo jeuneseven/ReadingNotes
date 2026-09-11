@@ -333,3 +333,25 @@
 ## Why can variable properties in constant classes be changed?
 
 
+
+# Protocols and extensions
+## Why does Swift need protocols?
+
+
+
+## When should we use protocol inheritance?
+
+
+
+## When should you use extensions in Swift?
+
+
+
+## When are protocol extensions useful in Swift?
+
+
+
+## How is protocol-oriented programming different from object-oriented programming?
+
+
+
