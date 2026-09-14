@@ -94,3 +94,64 @@
 
 
 
+# Working with static text: Laying out text neatly
+## How to create static labels with a Text view
+
+
+
+## How to style text views with fonts, colors, line spacing, and more
+
+
+
+## How to add advanced text styling using AttributedString
+
+
+
+## How to adjust text alignment using multilineTextAlignment()
+
+
+
+## How to format text inside text views
+
+
+
+## How to add spacing between letters in text
+
+
+
+## How to format dates inside text views
+
+
+
+## How to make TextField uppercase or lowercase using textCase()
+
+
+
+## How to show text and an icon side by side using Label
+
+
+
+## How to mark content as a placeholder using redacted()
+
+
+
+## How to mark content as private using privacySensitive()
+
+
+
+## How to render Markdown content in text
+
+
+
+## How to customize the way links are opened
+
+
+
+## How to let users select text
+
+
+
+## How to give label icons a fixed width
+
+
+
