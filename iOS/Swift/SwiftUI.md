@@ -155,3 +155,96 @@
 
 
 
+# Images, shapes, and media: Draw icons, circles, gradients, and more
+## How to draw images using Image views
+
+
+
+## How to adjust the way an image is fitted to its space
+
+
+
+## How to tile an image
+
+
+
+## How to render images using SF Symbols
+
+
+
+## How to render a gradient
+
+
+
+## How to use images and other views as backgrounds
+
+
+
+## How to display solid shapes
+
+
+
+## How to fill and stroke shapes at the same time
+
+
+
+## How to draw part of a solid shape using trim()
+
+
+
+## When should you use ContainerRelativeShape?
+
+
+
+## How to play movies with VideoPlayer
+
+
+
+## How to integrate SpriteKit using SpriteView
+
+
+
+## How to load a remote image from a URL
+
+
+
+## How to get custom colors and transparency with SF Symbols
+
+
+
+## How to dynamically adjust the color of an SF Symbol
+
+
+
+## How to let users select pictures using PhotosPicker
+
+
+
+## How to let users import videos using PhotosPicker
+
+
+
+## How to animate SF Symbols
+
+
+
+## How to read the red, green, and blue values from a Color
+
+
+
+## How to combine shapes to create new shapes
+
+
+
+## How to load custom colors from an asset catalog
+
+
+
+## How to create a mesh gradient
+
+
+
+## How to make SF Symbols draw themselves
+
+
+
