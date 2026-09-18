@@ -249,3 +249,38 @@
 
 
 # View layout: Layout sizes, priorities, and spacing
+## How to give a view a custom frame
+
+
+
+## How to control spacing around individual views using padding
+
+
+
+## How to provide relative sizes using GeometryReader
+
+
+
+## How to place content outside the safe area
+
+
+
+## How to return different view types
+
+
+
+## How to create views in a loop using ForEach
+How to control layout priority using layoutPriority()
+How to make two views the same width or height
+How to provide visual structure using foreground styles
+How to inset the safe area with custom content
+How to hide the home indicator and other system UI
+How to stop system gestures from interfering with your own
+How to dynamically change between VStack and HStack
+How to create a custom layout using the Layout protocol
+How to create an adaptive layout with ViewThatFits
+How to add extra padding to the safe area
+How to dynamically adjust the appearance of a view based on its size and location
+How to adjust the size of a view relative to its container
+How to detect when the size or position of a view changes
+How to automatically add appropriate padding for the current scene
