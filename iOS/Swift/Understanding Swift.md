@@ -54,7 +54,10 @@
 # Complex types
 ## Why does Swift have arrays?
 
-
+- create constants and variables of arrays just like other types of data
+- If they are variable, you can add to them freely to build up your data over time, or you can remove or even rearrange items if you want
+- read values out of arrays using their numerical position, counting from 0: Swift’s arrays are zero-based
+- Swift will automatically crash your program if you attempt to read an array using an invalid index
 
 ## Why are sets different from arrays in Swift?
 
