@@ -61,7 +61,9 @@
 
 ## Why are sets different from arrays in Swift?
 
-
+- Arrays are their own data type just like String, Int, and Double, they can automatically adapt to hold as many as you need, and always hold data in the order you add it
+- start and end arrays using square brackets, with commas between every item
+- The position of an item in an array is commonly called its index
 
 ## How are tuples different from arrays in Swift?
 
