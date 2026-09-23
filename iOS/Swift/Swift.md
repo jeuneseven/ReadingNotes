@@ -183,6 +183,8 @@ print("5 x 5 is \(5 * 5)")
 - Arrays are their own data type just like String, Int, and Double, they can automatically adapt to hold as many as you need, and always hold data in the order you add it
 - start and end arrays using square brackets, with commas between every item
 - The position of an item in an array is commonly called its index
+- Make sure an item exists at the index you’re asking for, otherwise your code will crash – your app will just stop working
+- Swift does watch the kind of data you’re trying to add, and will make sure your array only ever contains one type of data at a time
 
 ## How to store and find data in dictionaries
 
