@@ -185,6 +185,7 @@ print("5 x 5 is \(5 * 5)")
 - The position of an item in an array is commonly called its index
 - Make sure an item exists at the index you’re asking for, otherwise your code will crash – your app will just stop working
 - Swift does watch the kind of data you’re trying to add, and will make sure your array only ever contains one type of data at a time
+- Swift’s type safety means that it must always know what type of data an array is storing
 
 ## How to store and find data in dictionaries
 
