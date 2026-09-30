@@ -191,6 +191,7 @@ print("5 x 5 is \(5 * 5)")
 
 - Dictionaries don’t store items according to their position like arrays do, but instead let us decide where items should be stored
 - Swift calls the strings on the left the keys to the dictionary, and the strings on the right are the values
+- when you access data inside a dictionary, it will tell us “you might get a value back, but you might get back nothing at all.” Swift calls these optionals because the existence of data is optional - it might be there or it might not
 
 ## How to use sets for fast data lookup
 
