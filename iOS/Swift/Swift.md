@@ -190,7 +190,7 @@ print("5 x 5 is \(5 * 5)")
 ## How to store and find data in dictionaries
 
 - Dictionaries don’t store items according to their position like arrays do, but instead let us decide where items should be stored
-- Swift calls the strings on the left – name, job, and location – the keys to the dictionary, and the strings on the right are the values
+- Swift calls the strings on the left the keys to the dictionary, and the strings on the right are the values
 
 ## How to use sets for fast data lookup
 
