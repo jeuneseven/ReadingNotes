@@ -197,7 +197,8 @@ print("5 x 5 is \(5 * 5)")
 
 ## How to use sets for fast data lookup
 
-
+- similar to arrays, except you can’t add duplicate items, and they don’t store their items in a particular order
+- Creating a set works much like creating an array: tell Swift what kind of data it will store, then go ahead and add things
 
 ## How to create and use enums
 
