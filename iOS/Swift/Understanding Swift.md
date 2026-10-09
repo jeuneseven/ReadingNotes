@@ -61,7 +61,12 @@
 
 ## Why are sets different from arrays in Swift?
 
+- sets are unordered and cannot contain duplicates, whereas arrays retain their order and can contain duplicates
+- because sets don’t need to store your objects in the order you add them, they can instead store them in a seemingly random order that optimizes them for fast retrieval
+- arrays must store their items in the order you give them, so to check whether item X exists in an array containing 10,000 items Swift needs to start at the first item and check every single item until it’s found – or perhaps it isn’t found at all
+- sets are more useful for times when you want to say “does this item exist?”
 
+[Array vs Set: Fundamentals in Swift explained](https://www.avanderlee.com/swift/array-vs-set-differences-explained/)
 
 ## How are tuples different from arrays in Swift?
 
