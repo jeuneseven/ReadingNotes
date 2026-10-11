@@ -202,7 +202,12 @@ print("5 x 5 is \(5 * 5)")
 
 ## How to create and use enums
 
-
+- An enum – short for enumeration – is a set of named values we can create and use, they let us define a new data type with a handful of specific values that it can have
+- list up front the range of values it can have, and Swift will make sure you never make a mistake using them
+- Swift does two things that make enums a little easier to use. 
+	- First, when you have many cases in an enum you can just write case once, then separate each case with a comma
+	- Second, remember that once you assign a value to a variable or constant, its data type becomes fixed – you can’t set a variable to a string at first, then an integer later on. Well, for enums this means you can skip the enum name after the first assignment
+- one major benefit of enums is that Swift stores them in an optimized form
 
 ## How to use type annotations
 
