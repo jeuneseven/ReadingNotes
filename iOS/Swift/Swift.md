@@ -211,7 +211,9 @@ print("5 x 5 is \(5 * 5)")
 
 ## How to use type annotations
 
-
+- sometimes we don’t want to assign a value immediately, or sometimes we want to override Swift’s choice of type, and that’s where type annotations come in
+- Type annotations let us be explicit about what data types we want
+- Regardless of whether you use type inference or type annotation, there is one golden rule: Swift must at all times know what data types your constants and variables contain, this is the core of being a type-safe language, and stops us doing nonsense things like 5 + true or similar
 
 ## Summary: Complex data
 
