@@ -70,15 +70,18 @@
 
 ## How are tuples different from arrays in Swift?
 
-
+- tuples hold a fixed set of things that can’t be changed
+- each value is specifically created by you, so as well as providing a name you also provide a type
 
 ## When should you use an array, a set, or a tuple in Swift?
 
-
+- arrays keep the order and can have duplicates, sets are unordered and can’t have duplicates, and tuples have a fixed number of values of fixed types inside them
 
 ## Why does Swift have dictionaries as well as arrays?
 
-
+- dictionaries let us choose a “key” that identifies the item we want to add, whereas arrays just add each item sequentially
+- Dictionaries don’t store our items using an index, but instead they optimize the way they store items for fast retrieval
+- can’t be guaranteed that a key in a dictionary exists. This is why reading a value from a dictionary might send back nothing, might have requested a key that doesn’t exist
 
 ## Why does Swift have default values for dictionaries?
 
