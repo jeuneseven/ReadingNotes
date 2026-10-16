@@ -85,7 +85,8 @@
 
 ## Why does Swift have default values for dictionaries?
 
-
+- let you provide a backup value to use for when the key you ask for doesn’t exist
+- 
 
 ## Why would you want to create an empty collection?
 
