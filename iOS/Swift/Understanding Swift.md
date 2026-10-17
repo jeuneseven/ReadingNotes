@@ -86,15 +86,14 @@
 ## Why does Swift have default values for dictionaries?
 
 - let you provide a backup value to use for when the key you ask for doesn’t exist
-- 
 
 ## Why would you want to create an empty collection?
 
-
+- sometimes you don’t know all your data up front, and in those cases it’s more common to create an empty collection then add things as you calculate your data
 
 ## Why does Swift need enums?
 
-
+- enums are a way of us saying something to mean something specific and safe. If we had written something and no such case existed, Swift would simply refuse to build our code it doesn’t understand the enum case. Behind the scenes, Swift can store its enum values very simply, so they are much faster to create and store than something like a string
 
 ## Why would you want to associate a value with an enum case?
 
