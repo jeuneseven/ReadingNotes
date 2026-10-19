@@ -99,6 +99,7 @@
 
 - extra pieces of information that describe the enum case in more detail
 - can be attached to every case, or only some cases, each case can have as many associated values as you want, as long as each one has a type
+- enums with associated values let us add extra information to an enum case – think of them as being adjectives to a noun, because it lets us describe the thing in more detail
 
 ## Why do Swift’s enums have raw values?
 
