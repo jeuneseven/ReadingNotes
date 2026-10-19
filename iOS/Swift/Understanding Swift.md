@@ -97,7 +97,8 @@
 
 ## Why would you want to associate a value with an enum case?
 
-
+- extra pieces of information that describe the enum case in more detail
+- can be attached to every case, or only some cases, each case can have as many associated values as you want, as long as each one has a type
 
 ## Why do Swift’s enums have raw values?
 
