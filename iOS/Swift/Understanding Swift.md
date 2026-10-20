@@ -103,7 +103,7 @@
 
 ## Why do Swift’s enums have raw values?
 
-
+- let us use enums just like we normally would, but also attach an underlying value to each case
 
 # Operators and conditions
 ## Why can’t Swift add a Double to an Int?
