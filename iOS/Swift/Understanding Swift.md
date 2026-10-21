@@ -66,6 +66,7 @@
 - arrays must store their items in the order you give them, so to check whether item X exists in an array containing 10,000 items Swift needs to start at the first item and check every single item until it’s found – or perhaps it isn’t found at all
 - sets are more useful for times when you want to say “does this item exist?”
 
+### Reference
 [Array vs Set: Fundamentals in Swift explained](https://www.avanderlee.com/swift/array-vs-set-differences-explained/)
 
 ## How are tuples different from arrays in Swift?
@@ -104,6 +105,10 @@
 ## Why do Swift’s enums have raw values?
 
 - let us use enums just like we normally would, but also attach an underlying value to each case
+- Inside our Swift code this mostly won’t have any effect, but it does mean we now have a specific, fixed way of referring to each value for the times we need it
+
+### Reference
+[Enum explained in-depth with code examples in Swift](https://www.avanderlee.com/swift/enumerations/)
 
 # Operators and conditions
 ## Why can’t Swift add a Double to an Int?
