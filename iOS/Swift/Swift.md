@@ -230,7 +230,7 @@ print("5 x 5 is \(5 * 5)")
 # Conditions and loops
 ## How to check a condition is true or false
 
-
+- if statements, let us check a condition and run some code if the condition is true
 
 ## How to check multiple conditions
 
