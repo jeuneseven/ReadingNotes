@@ -231,6 +231,8 @@ print("5 x 5 is \(5 * 5)")
 ## How to check a condition is true or false
 
 - if statements, let us check a condition and run some code if the condition is true
+- asking a string for its count makes Swift go through and count up all the letters one by one – it doesn’t just store its length separately from the string
+- Swift adds a second piece of functionality to all its strings, arrays, dictionaries, and sets: isEmpty. This will send back true if the thing you’re checking has nothing inside
 
 ## How to check multiple conditions
 
