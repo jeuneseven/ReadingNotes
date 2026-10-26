@@ -444,7 +444,5 @@ print("5 x 5 is \(5 * 5)")
 
 [Checkpoint 9](https://github.com/jeuneseven/iOS/blob/master/Swift/MyPlayground.playground/Pages/Page09.xcplaygroundpage/Contents.swift)
 
-# Wrap up
-## Where now?
-
+# Reference
 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
