@@ -114,7 +114,7 @@
 # Operators and conditions
 ## Why can’t Swift add a Double to an Int?
 
-
+- Swift will refuse to automatically convert between its various numeric types – you can’t add an Int and a Double, you can’t multiply a Float and an Int, and so on
 
 ## Why does Swift have a dedicated division remainder operator?
 
