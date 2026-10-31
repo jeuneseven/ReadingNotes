@@ -468,3 +468,11 @@
 
 
 ## How to customize the submit button for TextField, SecureField, and TextEditor
+
+
+
+## How to add a border to a TextField
+
+
+
+## How to add a placeholder to a TextField
