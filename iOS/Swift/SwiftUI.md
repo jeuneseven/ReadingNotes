@@ -476,3 +476,10 @@
 
 
 ## How to add a placeholder to a TextField
+
+
+
+## How to disable autocorrect in a TextField
+
+
+
