@@ -488,3 +488,10 @@
 
 
 ## How to make a TextField or TextEditor have default focus
+
+
+
+## How to make a TextField expand vertically as the user types
+
+
+
