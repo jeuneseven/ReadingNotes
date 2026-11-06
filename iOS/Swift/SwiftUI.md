@@ -500,3 +500,10 @@
 
 
 ## How to create secure text fields using SecureField
+
+
+
+## How to create a toggle switch
+
+
+
