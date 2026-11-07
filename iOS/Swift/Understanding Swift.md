@@ -114,6 +114,8 @@
 # Operators and conditions
 ## Why can’t Swift add a Double to an Int?
 
+- both Double and Int take the same amount of memory to store their number, but Int only stores whole numbers whereas Double can store values after the decimal place
+- adding a Double to an Int isn’t safe because the Double can store things the Int can’t and that would be lost in the resulting integer
 - Integers lose the ability to store fractional values, but they gain the ability to store precise values
 - Swift will refuse to automatically convert between its various numeric types – you can’t add an Int and a Double, you can’t multiply a Float and an Int, and so on
 
