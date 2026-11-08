@@ -116,8 +116,10 @@
 
 - both Double and Int take the same amount of memory to store their number, but Int only stores whole numbers whereas Double can store values after the decimal place
 - adding a Double to an Int isn’t safe because the Double can store things the Int can’t and that would be lost in the resulting integer
+- although Double uses the same amount of memory to store its value as Int, the way it stores its data is a little fuzzy – it has really great precision with smaller numbers, but increasingly fuzzy precision when you start working with large numbers
 - Integers lose the ability to store fractional values, but they gain the ability to store precise values
-- Swift will refuse to automatically convert between its various numeric types – you can’t add an Int and a Double, you can’t multiply a Float and an Int, and so on
+- it isn’t safe to add a Double to an Int because we lose any numbers after the decimal point, and it isn’t safe to add an Int to a Double because we lose some accuracy
+- Swift refuse to automatically convert between its various numeric types – you can’t add an Int and a Double, you can’t multiply a Float and an Int, and so on
 
 ## Why does Swift have a dedicated division remainder operator?
 
