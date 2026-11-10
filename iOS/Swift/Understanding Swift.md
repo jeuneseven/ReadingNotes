@@ -123,7 +123,7 @@
 
 ## Why does Swift have a dedicated division remainder operator?
 
-
+- modulo: an operator allows us to calculate the remainder after a division
 
 ## Why does Swift need operator overloading?
 
