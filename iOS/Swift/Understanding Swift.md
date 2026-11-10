@@ -127,7 +127,7 @@
 
 ## Why does Swift need operator overloading?
 
-
+- Operator overloading allows the same operator – +, *, /, and so on – to do different things depending on what data you use it with, allows us to use these symbols in various places where they would make sense
 
 ## Why does Swift have compound assignment operators?
 
