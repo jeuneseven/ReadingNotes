@@ -131,11 +131,11 @@
 
 ## Why does Swift have compound assignment operators?
 
-
+- compound assignment operators are available as a shorthand: a simpler way to write the same thing, less typing for us, less code to read, and also less chance of making mistakes
 
 ## How does Swift let us compare many types of data?
 
-
+- Swift lets us compare many kinds of values out of the box, which means we can check a variety of values for equality and comparison
 
 ## What’s the difference between if and else if?
 
