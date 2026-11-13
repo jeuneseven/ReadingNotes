@@ -139,7 +139,8 @@
 
 ## What’s the difference between if and else if?
 
-
+- can make the code easier to read by using else if, which lets us combine the else with the if directly 
+- You can have as many else if checks as you want, but you need exactly one if and either zero or one else.
 
 ## How to check multiple conditions
 
