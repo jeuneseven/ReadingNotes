@@ -507,3 +507,4 @@
 
 
 
+## How to create a slider and read values from it
