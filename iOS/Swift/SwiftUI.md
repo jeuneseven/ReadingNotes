@@ -508,3 +508,7 @@
 
 
 ## How to create a slider and read values from it
+
+
+
+## How to create a picker and read values from it
