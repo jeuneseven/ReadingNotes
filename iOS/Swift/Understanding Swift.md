@@ -144,7 +144,7 @@
 
 ## How to check multiple conditions
 
-- 
+- Swift gives us && and || for checking multiple conditions at the same time
 
 ## When should you use the ternary operator in Swift?
 
