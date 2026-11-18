@@ -145,10 +145,11 @@
 ## How to check multiple conditions
 
 - Swift gives us && and || for checking multiple conditions at the same time
+- any time you mix && and || in a single condition you should almost certainly use parentheses to make the result clear
 
 ## When should you use the ternary operator in Swift?
 
-
+- 
 
 ## When should you use switch statements rather than if?
 
