@@ -149,7 +149,7 @@
 
 ## When should you use the ternary operator in Swift?
 
-- 
+- The ternary operator lets us choose from one of two results based on a condition
 
 ## When should you use switch statements rather than if?
 
