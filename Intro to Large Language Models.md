@@ -2,4 +2,5 @@
 
 # LLM Inference
 
-LLM = parameters + run.c
+- LLM = parameters + run.c
+- model training = a compression of Internet
