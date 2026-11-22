@@ -153,7 +153,9 @@
 
 ## When should you use switch statements rather than if?
 
-
+- Swift requires that its switch statements are exhaustive, which means you must either have a case block for every possible value to check (e.g. all cases of an enum) or you must have a default case. This isn’t true for if and else if, so you might accidentally miss a case
+- When you use switch to check a value for multiple possible results, that value will only be read once, whereas if you use if it will be read multiple times. This becomes more important when you start using function calls, because some of these can be slow
+- Swift’s switch cases allow for advanced pattern matching that is unwieldy with if
 
 ## Why does Swift have two range operators?
 
