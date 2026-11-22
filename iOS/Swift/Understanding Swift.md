@@ -159,7 +159,9 @@
 
 ## Why does Swift have two range operators?
 
+### Reference
 
+[Ranges in Swift explained with code examples](https://www.avanderlee.com/swift/ranges-explained/)
 
 # Looping
 ## Why does Swift use underscores with loops?
