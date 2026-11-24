@@ -512,3 +512,7 @@
 
 
 ## How to create a picker and read values from it
+
+
+
+## How to create a date picker and read values from it
