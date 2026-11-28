@@ -159,7 +159,7 @@
 
 ## Why does Swift have two range operators?
 
-
+- ranges are great for counting through specific values, but they are also helpful for reading groups of items from arrays
 
 ### Reference
 
